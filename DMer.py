@@ -30,8 +30,8 @@ def dmer():
     usrname_bar = browser.find_element_by_name('username')
     passwrd_bar = browser.find_element_by_name('password')
 
-    username = 'jordan.luke03'  # Enter your username here
-    password = '0310Oct1998'  # Enter your password here
+    username = ''  # Enter your username here
+    password = ''  # Enter your password here
 
     usrname_bar.send_keys(username)
     passwrd_bar.send_keys(password + Keys.ENTER)
