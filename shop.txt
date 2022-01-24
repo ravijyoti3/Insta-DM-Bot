@@ -1,0 +1,6382 @@
+[{
+  "_id": {
+    "$oid": "60cf67f9994c910004a40258"
+  },
+  "Services": [],
+  "status": "open",
+  "referals": 0,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "name": "Rajsthan royal hair Craft",
+  "address": "Radha swami rod Rajesh park sosayti sop 5 Ranip ",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "vendorId": "60cf669c994c910004a40257",
+  "phone": "+919427634451",
+  "createdAt": {
+    "$date": "2021-06-20T16:08:25.702Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-20T16:09:08.640Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d6ef10cd80f700041b6a89"
+  },
+  "Services": [
+    {
+      "$oid": "60d6ef3bcd80f700041b6a8a"
+    },
+    {
+      "$oid": "60d6ef53cd80f700041b6a8b"
+    },
+    {
+      "$oid": "60d6ef5ecd80f700041b6a8c"
+    },
+    {
+      "$oid": "60d6ef6dcd80f700041b6a8d"
+    },
+    {
+      "$oid": "60d6ef7acd80f700041b6a8e"
+    },
+    {
+      "$oid": "60d6ef87cd80f700041b6a8f"
+    },
+    {
+      "$oid": "60d6ef94cd80f700041b6a90"
+    },
+    {
+      "$oid": "60d6efa0cd80f700041b6a91"
+    },
+    {
+      "$oid": "60d6efafcd80f700041b6a92"
+    },
+    {
+      "$oid": "60d6efc8cd80f700041b6a93"
+    },
+    {
+      "$oid": "60d6efd7cd80f700041b6a94"
+    },
+    {
+      "$oid": "60d6efedcd80f700041b6a95"
+    },
+    {
+      "$oid": "60d6f00acd80f700041b6a96"
+    },
+    {
+      "$oid": "60d6f022cd80f700041b6a97"
+    },
+    {
+      "$oid": "60d6f035cd80f700041b6a98"
+    },
+    {
+      "$oid": "60d6f047cd80f700041b6a99"
+    },
+    {
+      "$oid": "60d6f05ecd80f700041b6a9a"
+    },
+    {
+      "$oid": "60d6f072cd80f700041b6a9b"
+    },
+    {
+      "$oid": "60d6f09ecd80f700041b6a9c"
+    },
+    {
+      "$oid": "60d6f0b3cd80f700041b6a9d"
+    },
+    {
+      "$oid": "60d6f0c5cd80f700041b6a9e"
+    },
+    {
+      "$oid": "60d6f0e7cd80f700041b6a9f"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "name": "Blue Heaven",
+  "address": "Shop no. 1,Aries heights, Nr. Ashtamangal Orchid, nikol, Ahmedabad",
+  "city": "ahmedabad",
+  "breakDuration": 0,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "vendorId": "60d6ed756da8b80004211269",
+  "phone": "+916356535912",
+  "createdAt": {
+    "$date": "2021-06-26T09:10:40.752Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-26T09:18:31.673Z"
+  },
+  "__v": 0,
+  "rank": 2
+},{
+  "_id": {
+    "$oid": "60d75922fc016f00047fae69"
+  },
+  "Services": [
+    {
+      "$oid": "60d759a7fc016f00047fae6a"
+    },
+    {
+      "$oid": "60d759b9fc016f00047fae6b"
+    },
+    {
+      "$oid": "60d75b2bdcb7c50004d4cb69"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 0,
+  "commision": 0,
+  "show": true,
+  "name": "Kesh kala the hair studio",
+  "address": "255 medical complex near paras nagar",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "0900",
+  "vendorId": "60d758bdfc016f00047fae68",
+  "phone": "+918000465873",
+  "createdAt": {
+    "$date": "2021-06-26T16:43:14.115Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-26T16:51:55.757Z"
+  },
+  "__v": 0,
+  "rank": 15
+},{
+  "_id": {
+    "$oid": "60d992b78f1a350004bd9573"
+  },
+  "Services": [
+    {
+      "$oid": "60d993598f1a350004bd9574"
+    },
+    {
+      "$oid": "60d993738f1a350004bd9575"
+    },
+    {
+      "$oid": "60d9937f8f1a350004bd9576"
+    },
+    {
+      "$oid": "60d993918f1a350004bd9577"
+    },
+    {
+      "$oid": "60d993a38f1a350004bd9578"
+    },
+    {
+      "$oid": "60d993b28f1a350004bd9579"
+    },
+    {
+      "$oid": "60d993c78f1a350004bd957a"
+    },
+    {
+      "$oid": "60d993d88f1a350004bd957b"
+    },
+    {
+      "$oid": "60d993e68f1a350004bd957c"
+    },
+    {
+      "$oid": "60d994008f1a350004bd957d"
+    },
+    {
+      "$oid": "60d994158f1a350004bd957e"
+    },
+    {
+      "$oid": "60d994238f1a350004bd957f"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "100plus",
+  "address": "Shop no.8 Palash pearl appartment, new india colony rd,opp. Sadguru saran, nikol, Ahmedabad.",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "vendorId": "60d991d98f1a350004bd9572",
+  "phone": "+918780297656",
+  "createdAt": {
+    "$date": "2021-06-28T09:13:27.324Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-15T07:48:18.801Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d99e67df78560004a9a1ca"
+  },
+  "Services": [
+    {
+      "$oid": "60d99f01df78560004a9a1cb"
+    },
+    {
+      "$oid": "60d99f19df78560004a9a1cc"
+    },
+    {
+      "$oid": "60d99f29df78560004a9a1cd"
+    },
+    {
+      "$oid": "60d99f46df78560004a9a1ce"
+    },
+    {
+      "$oid": "60d99f7cdf78560004a9a1d0"
+    },
+    {
+      "$oid": "60d99f8cdf78560004a9a1d1"
+    },
+    {
+      "$oid": "60d99f9bdf78560004a9a1d2"
+    },
+    {
+      "$oid": "60d99fafdf78560004a9a1d3"
+    },
+    {
+      "$oid": "60d99fc2df78560004a9a1d4"
+    },
+    {
+      "$oid": "60d99fd1df78560004a9a1d5"
+    },
+    {
+      "$oid": "60d99fdfdf78560004a9a1d6"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Rich Professional Hair Salon",
+  "address": "Shop no.3,sadguru saran,new india colony,new nikol,Ahmedabad",
+   location:23.049000, 72.673530
+  "city": "ahmedabad",
+  "breakDuration": 0,
+  "breakTime": "1300",
+  "openTime": "900",
+  "closeTime": "2100",
+  "vendorId": "60d99d625976b30004d4b25e",
+  "phone": "+917359327258",
+  "createdAt": {
+    "$date": "2021-06-28T10:03:19.760Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T16:44:26.488Z"
+  },
+  "__v": 0,
+  "rank": 6
+},{
+  "_id": {
+    "$oid": "60dabae2d12ceb0004c196b7"
+  },
+  "Services": [
+    {
+      "$oid": "60dabb31d12ceb0004c196b8"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "BELA'S",
+  "address": "A-110,revti plaza, ,bhakti circle,nikol ahmedabad", 
+   location: 23.0503643,72.6619499
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "vendorId": "60daba61d12ceb0004c196b6",
+  "phone": "+918140835724",
+  "createdAt": {
+    "$date": "2021-06-29T06:17:06.879Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T06:18:25.470Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60daddee8d31fd0004897bd0"
+  },
+  "Services": [
+    {
+      "$oid": "60dadec88d31fd0004897bd1"
+    },
+    {
+      "$oid": "60dadefb8d31fd0004897bd2"
+    },
+    {
+      "$oid": "60dadf088d31fd0004897bd3"
+    },
+    {
+      "$oid": "60dadf3c8d31fd0004897bd4"
+    },
+    {
+      "$oid": "60dadf4e8d31fd0004897bd5"
+    },
+    {
+      "$oid": "60dadf618d31fd0004897bd6"
+    },
+    {
+      "$oid": "60dadf738d31fd0004897bd7"
+    },
+    {
+      "$oid": "60dadf898d31fd0004897bd8"
+    },
+    {
+      "$oid": "60dadfa58d31fd0004897bd9"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Sajani hair point",
+  "address": "24,astamangal orchid, near nikol police station, nikol, ahmedabad",
+   location: 23.0471682,72.6767038
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "vendorId": "60dadd598d31fd0004897bcf",
+  "phone": "+919712694158",
+  "createdAt": {
+    "$date": "2021-06-29T08:46:38.222Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T08:53:57.440Z"
+  },
+  "__v": 0,
+  "rank": 4
+},{
+  "_id": {
+    "$oid": "60daed95ab8df5000429181c"
+  },
+  "Services": [
+    {
+      "$oid": "60daedfdab8df5000429181d"
+    },
+    {
+      "$oid": "60daee0fab8df5000429181e"
+    },
+    {
+      "$oid": "60daee29ab8df5000429181f"
+    },
+    {
+      "$oid": "60daee38ab8df50004291820"
+    },
+    {
+      "$oid": "60daee55ab8df50004291821"
+    },
+    {
+      "$oid": "60daee64ab8df50004291822"
+    },
+    {
+      "$oid": "60daee7cab8df50004291823"
+    },
+    {
+      "$oid": "60daee8cab8df50004291824"
+    },
+    {
+      "$oid": "60daee98ab8df50004291825"
+    },
+    {
+      "$oid": "60daeea6ab8df50004291826"
+    },
+    {
+      "$oid": "60daeebdab8df50004291827"
+    },
+    {
+      "$oid": "60daefbab49c2e000428eb3b"
+    },
+    {
+      "$oid": "60daefcdb49c2e000428eb3c"
+    },
+    {
+      "$oid": "60daefdeb49c2e000428eb3d"
+    },
+    {
+      "$oid": "60daeff4b49c2e000428eb3e"
+    },
+    {
+      "$oid": "60daf004b49c2e000428eb3f"
+    },
+    {
+      "$oid": "60daf019b49c2e000428eb40"
+    },
+    {
+      "$oid": "60daf02bb49c2e000428eb41"
+    },
+    {
+      "$oid": "60daf03cb49c2e000428eb42"
+    },
+    {
+      "$oid": "60daf051b49c2e000428eb43"
+    },
+    {
+      "$oid": "60daf05db49c2e000428eb44"
+    },
+    {
+      "$oid": "60daf06ab49c2e000428eb45"
+    },
+    {
+      "$oid": "60daf078b49c2e000428eb46"
+    },
+    {
+      "$oid": "60daf08eb49c2e000428eb47"
+    },
+    {
+      "$oid": "60daf0b7b49c2e000428eb48"
+    },
+    {
+      "$oid": "60daf0d9b49c2e000428eb49"
+    },
+    {
+      "$oid": "60daf161b49c2e000428eb4a"
+    },
+    {
+      "$oid": "60daf177b49c2e000428eb4b"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "Favorite_the_family_salon",
+  "instagramStatus": "added",
+  "name": "Favorite the family salon ",
+  "address": "A-103,revti plaza complex, Bhakti circle, Nikolai, ahmedabad",
+   location : 23.0520127,72.678153
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "vendorId": "60daecd6ab8df5000429181b",
+  "phone": "+91+19099720891",
+  "createdAt": {
+    "$date": "2021-06-29T09:53:25.596Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-29T10:11:56.390Z"
+  },
+  "__v": 0,
+  "rank": 8
+},{
+  "_id": {
+    "$oid": "60dc38cf0eed9600045852c2"
+  },
+  "Services": [
+    {
+      "$oid": "60dc39560eed9600045852c3"
+    },
+    {
+      "$oid": "60dc396e0eed9600045852c4"
+    },
+    {
+      "$oid": "60dc397d0eed9600045852c5"
+    },
+    {
+      "$oid": "60dc398b0eed9600045852c6"
+    },
+    {
+      "$oid": "60dc39a30eed9600045852c7"
+    },
+    {
+      "$oid": "60dc39b50eed9600045852c8"
+    },
+    {
+      "$oid": "60dc39d30eed9600045852c9"
+    },
+    {
+      "$oid": "60dc39e10eed9600045852ca"
+    },
+    {
+      "$oid": "60dc39ed0eed9600045852cb"
+    },
+    {
+      "$oid": "60dc39f70eed9600045852cc"
+    },
+    {
+      "$oid": "60dc3a030eed9600045852cd"
+    },
+    {
+      "$oid": "60dc3a0d0eed9600045852ce"
+    },
+    {
+      "$oid": "60dc3a1b0eed9600045852cf"
+    },
+    {
+      "$oid": "60dc3a260eed9600045852d0"
+    },
+    {
+      "$oid": "60dc3a310eed9600045852d1"
+    },
+    {
+      "$oid": "60dc3a430eed9600045852d2"
+    },
+    {
+      "$oid": "60dc3a5d0eed9600045852d3"
+    },
+    {
+      "$oid": "60dc3a790eed9600045852d4"
+    },
+    {
+      "$oid": "60dc3a8d0eed9600045852d5"
+    },
+    {
+      "$oid": "60dc3a9a0eed9600045852d6"
+    },
+    {
+      "$oid": "60dc3ac20eed9600045852d7"
+    },
+    {
+      "$oid": "60dc3ad80eed9600045852d8"
+    },
+    {
+      "$oid": "60dc3aea0eed9600045852d9"
+    },
+    {
+      "$oid": "60dc3b010eed9600045852da"
+    },
+    {
+      "$oid": "60dc3b130eed9600045852db"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Sa.jenex",
+  "address": "108,radhe kishan complex,opposite karnavati bungalows-2,karnavati cross road,vastral,ahmedabad.",
+   location : 23.0052931,72.654684
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "vendorId": "60dc38220eed9600045852c1",
+  "phone": "+919898647997",
+  "createdAt": {
+    "$date": "2021-06-30T09:26:39.439Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-25T12:13:59.304Z"
+  },
+  "__v": 0,
+  "rank": 14
+},{
+  "_id": {
+    "$oid": "60dc46b10eed9600045852de"
+  },
+  "Services": [
+    {
+      "$oid": "60dc472b0eed9600045852df"
+    },
+    {
+      "$oid": "60dc47370eed9600045852e0"
+    },
+    {
+      "$oid": "60dc47420eed9600045852e1"
+    },
+    {
+      "$oid": "60dc474c0eed9600045852e2"
+    },
+    {
+      "$oid": "60dc47590eed9600045852e3"
+    },
+    {
+      "$oid": "60dc477a0eed9600045852e4"
+    },
+    {
+      "$oid": "60dc47ca0eed9600045852e5"
+    },
+    {
+      "$oid": "60dc47de0eed9600045852e7"
+    },
+    {
+      "$oid": "60dc48060eed9600045852e8"
+    },
+    {
+      "$oid": "60dc482b0eed9600045852e9"
+    },
+    {
+      "$oid": "60dc48400eed9600045852ea"
+    },
+    {
+      "$oid": "60dc48560eed9600045852eb"
+    },
+    {
+      "$oid": "60dc486c0eed9600045852ec"
+    },
+    {
+      "$oid": "60dc48880eed9600045852ed"
+    },
+    {
+      "$oid": "60dc48b20eed9600045852ee"
+    },
+    {
+      "$oid": "60dc48ce0eed9600045852ef"
+    },
+    {
+      "$oid": "60dc48f00eed9600045852f0"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "name": "Gozel salon",
+  "address": "Gf-6-7,devasya status, bhagti cycle, nikol ahemdbad",
+   location : 23.0525034,72.677734
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "vendorId": "60dc45940eed9600045852dd",
+  "phone": "+918209492143",
+  "createdAt": {
+    "$date": "2021-06-30T10:25:53.304Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-10T08:26:29.900Z"
+  },
+  "__v": 0,
+  "noOfReview": 1,
+  "sumRating": 5,
+  "rank": 5,
+  "location": {
+    "latitude": "108.5456465",
+    "longitude": "54.448414"
+  }
+},{
+  "_id": {
+    "$oid": "60dd840832fbfa00048729bf"
+  },
+  "Services": [
+    {
+      "$oid": "60dd847332fbfa00048729c0"
+    },
+    {
+      "$oid": "60dd848632fbfa00048729c1"
+    },
+    {
+      "$oid": "60dd849632fbfa00048729c2"
+    },
+    {
+      "$oid": "60dd84a032fbfa00048729c3"
+    },
+    {
+      "$oid": "60dd84b632fbfa00048729c4"
+    },
+    {
+      "$oid": "60dd84c332fbfa00048729c5"
+    },
+    {
+      "$oid": "60dd84d232fbfa00048729c6"
+    },
+    {
+      "$oid": "60dd84dd32fbfa00048729c7"
+    },
+    {
+      "$oid": "60dd84f232fbfa00048729c8"
+    },
+    {
+      "$oid": "60dd84ff32fbfa00048729c9"
+    },
+    {
+      "$oid": "60dd851132fbfa00048729ca"
+    },
+    {
+      "$oid": "60dd851e32fbfa00048729cb"
+    },
+    {
+      "$oid": "60dd853132fbfa00048729cc"
+    },
+    {
+      "$oid": "60dd853c32fbfa00048729cd"
+    },
+    {
+      "$oid": "60dd854a32fbfa00048729ce"
+    },
+    {
+      "$oid": "60dd855632fbfa00048729cf"
+    },
+    {
+      "$oid": "60dd856932fbfa00048729d0"
+    },
+    {
+      "$oid": "60dd857832fbfa00048729d1"
+    },
+    {
+      "$oid": "60dd858732fbfa00048729d2"
+    },
+    {
+      "$oid": "60dd85b232fbfa00048729d4"
+    },
+    {
+      "$oid": "60dd85c032fbfa00048729d5"
+    },
+    {
+      "$oid": "60dd85ce32fbfa00048729d6"
+    },
+    {
+      "$oid": "60dd861232fbfa00048729d7"
+    },
+    {
+      "$oid": "60dd863232fbfa00048729d8"
+    },
+    {
+      "$oid": "60dd864f32fbfa00048729d9"
+    },
+    {
+      "$oid": "60dd865e32fbfa00048729da"
+    },
+    {
+      "$oid": "60dd866d32fbfa00048729db"
+    },
+    {
+      "$oid": "60dd867f32fbfa00048729dc"
+    },
+    {
+      "$oid": "60dd869d32fbfa00048729dd"
+    },
+    {
+      "$oid": "60dd86b132fbfa00048729de"
+    },
+    {
+      "$oid": "60dd86e232fbfa00048729df"
+    },
+    {
+      "$oid": "60dd86fe32fbfa00048729e0"
+    },
+    {
+      "$oid": "60dd875132fbfa00048729e1"
+    },
+    {
+      "$oid": "60dd87d832fbfa00048729e3"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "7 scissors unisex salon",
+  "address": "2 gokulesh residensi . Bhakti rod. Nava nikol . Amdabad",
+   location : 23.0501617,72.6707988
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "vendorId": "60dd834432fbfa00048729be",
+  "phone": "+918200691090",
+  "createdAt": {
+    "$date": "2021-07-01T08:59:52.389Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T09:16:08.828Z"
+  },
+  "__v": 0,
+  "rank": 10
+},{
+  "_id": {
+    "$oid": "60dd904032fbfa00048729e6"
+  },
+  "Services": [
+    {
+      "$oid": "60dd907032fbfa00048729e7"
+    },
+    {
+      "$oid": "60dd908c32fbfa00048729e8"
+    },
+    {
+      "$oid": "60dd909532fbfa00048729e9"
+    },
+    {
+      "$oid": "60dd90ad32fbfa00048729ea"
+    },
+    {
+      "$oid": "60dd90bc32fbfa00048729eb"
+    },
+    {
+      "$oid": "60dd90c732fbfa00048729ec"
+    },
+    {
+      "$oid": "60dd90d132fbfa00048729ed"
+    },
+    {
+      "$oid": "60dd90e532fbfa00048729ee"
+    },
+    {
+      "$oid": "60dd90f932fbfa00048729ef"
+    },
+    {
+      "$oid": "60dd910832fbfa00048729f0"
+    },
+    {
+      "$oid": "60dd911532fbfa00048729f1"
+    },
+    {
+      "$oid": "60dd912032fbfa00048729f2"
+    },
+    {
+      "$oid": "60dd913d32fbfa00048729f3"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "The new york salon",
+  "address": "14 ahangal orchid ,M J road nikol 382350",
+   location : 23.0470615,72.6790536
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2130",
+  "vendorId": "60dd8fc132fbfa00048729e5",
+  "phone": "+918160096219",
+  "createdAt": {
+    "$date": "2021-07-01T09:52:00.193Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-01T09:56:19.162Z"
+  },
+  "__v": 0,
+  "rank": 3
+},{
+  "_id": {
+    "$oid": "60e05cf2e2a6b100042fddc8"
+  },
+  "Services": [
+    {
+      "$oid": "60e05d5de2a6b100042fddca"
+    },
+    {
+      "$oid": "60e05d6ae2a6b100042fddcb"
+    },
+    {
+      "$oid": "60e05d77e2a6b100042fddcc"
+    },
+    {
+      "$oid": "60e05d83e2a6b100042fddcd"
+    },
+    {
+      "$oid": "60e05d93e2a6b100042fddce"
+    },
+    {
+      "$oid": "60e05da3e2a6b100042fddcf"
+    },
+    {
+      "$oid": "60e05db1e2a6b100042fddd0"
+    },
+    {
+      "$oid": "60e05dc6e2a6b100042fddd1"
+    },
+    {
+      "$oid": "60e05dd6e2a6b100042fddd2"
+    },
+    {
+      "$oid": "60e05df8e2a6b100042fddd3"
+    },
+    {
+      "$oid": "60e05e09e2a6b100042fddd4"
+    },
+    {
+      "$oid": "60e05e51e2a6b100042fddd5"
+    },
+    {
+      "$oid": "60e05e70e2a6b100042fddd6"
+    },
+    {
+      "$oid": "60e05e9ee2a6b100042fddd7"
+    },
+    {
+      "$oid": "60e05eafe2a6b100042fddd8"
+    },
+    {
+      "$oid": "60e05ecee2a6b100042fddd9"
+    },
+    {
+      "$oid": "60e05ee0e2a6b100042fddda"
+    },
+    {
+      "$oid": "60e05ef6e2a6b100042fdddb"
+    },
+    {
+      "$oid": "60e05f25e2a6b100042fdddc"
+    },
+    {
+      "$oid": "60e05f43e2a6b100042fdddd"
+    },
+    {
+      "$oid": "60e05f67e2a6b100042fddde"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Jophiel Angel beauty salon",
+  "address": "405,406 4th floor omkar plaza opp.sardar tv beside town plaza bhakti circle road new india colony ",
+   location : 23.0501715,72.6722084
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "vendorId": "60e05beee2a6b100042fddc7",
+  "phone": "+919925071251",
+  "createdAt": {
+    "$date": "2021-07-03T12:49:54.291Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T11:23:32.183Z"
+  },
+  "__v": 0,
+  "noOfReview": 1,
+  "sumRating": 5,
+  "rank": 9
+},{
+  "_id": {
+    "$oid": "60e2c9f96741e5000469f70e"
+  },
+  "Services": [
+    {
+      "$oid": "60e2ca256741e5000469f70f"
+    },
+    {
+      "$oid": "60e2ca346741e5000469f710"
+    },
+    {
+      "$oid": "60e2ca476741e5000469f711"
+    },
+    {
+      "$oid": "60e2ca536741e5000469f712"
+    },
+    {
+      "$oid": "60e2ca706741e5000469f713"
+    },
+    {
+      "$oid": "60e2ca7a6741e5000469f714"
+    },
+    {
+      "$oid": "60e2ca886741e5000469f715"
+    },
+    {
+      "$oid": "60e2ca916741e5000469f716"
+    },
+    {
+      "$oid": "60e2ca9f6741e5000469f717"
+    },
+    {
+      "$oid": "60e2caab6741e5000469f718"
+    },
+    {
+      "$oid": "60e2cabf6741e5000469f719"
+    },
+    {
+      "$oid": "60e2caf66741e5000469f71b"
+    },
+    {
+      "$oid": "60e2cb266741e5000469f71c"
+    },
+    {
+      "$oid": "60e2cb3d6741e5000469f71d"
+    },
+    {
+      "$oid": "60e2cb5a6741e5000469f71e"
+    },
+    {
+      "$oid": "60e2cb6c6741e5000469f71f"
+    },
+    {
+      "$oid": "60e2cb7f6741e5000469f720"
+    },
+    {
+      "$oid": "60e2cbe76741e5000469f721"
+    },
+    {
+      "$oid": "60e2cc0a6741e5000469f722"
+    },
+    {
+      "$oid": "60e2cc1d6741e5000469f723"
+    },
+    {
+      "$oid": "60e2cc496741e5000469f724"
+    },
+    {
+      "$oid": "60e2cc6d6741e5000469f725"
+    }
+  ],
+  "status": "open",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Final cut's hair & beauty",
+   location : 23.051140, 72.675938
+  "address": "ff-32,raspan arched, nr. Raspan cross road, nikol, ahmedabad",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "vendorId": "60e2c9656741e5000469f70d",
+  "phone": "+91917878778008",
+  "createdAt": {
+    "$date": "2021-07-05T08:59:37.418Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T09:10:05.243Z"
+  },
+  "__v": 0,
+  "rank": 11
+},{
+  "_id": {
+    "$oid": "60e2e256015c530004f39cd7"
+  },
+  "Services": [
+    {
+      "$oid": "60e2e289015c530004f39cd8"
+    },
+    {
+      "$oid": "60e2e29a015c530004f39cd9"
+    },
+    {
+      "$oid": "60e2e2a7015c530004f39cda"
+    },
+    {
+      "$oid": "60e2e2b8015c530004f39cdb"
+    },
+    {
+      "$oid": "60e2e2cb015c530004f39cdc"
+    },
+    {
+      "$oid": "60e2e2d8015c530004f39cdd"
+    },
+    {
+      "$oid": "60e2e301015c530004f39cde"
+    },
+    {
+      "$oid": "60e2e350015c530004f39cdf"
+    },
+    {
+      "$oid": "60e2e374015c530004f39ce0"
+    },
+    {
+      "$oid": "60e2e3a2015c530004f39ce1"
+    },
+    {
+      "$oid": "60e2e3c0015c530004f39ce2"
+    },
+    {
+      "$oid": "60e2e3e9015c530004f39ce3"
+    },
+    {
+      "$oid": "60e2e42a015c530004f39ce5"
+    },
+    {
+      "$oid": "60e2e43c015c530004f39ce6"
+    },
+    {
+      "$oid": "60e2e474015c530004f39ce7"
+    },
+    {
+      "$oid": "60e2e49e015c530004f39ce8"
+    },
+    {
+      "$oid": "60e2e4b4015c530004f39ce9"
+    },
+    {
+      "$oid": "60e2e4fa015c530004f39cea"
+    },
+    {
+      "$oid": "60e2e515015c530004f39ceb"
+    },
+    {
+      "$oid": "60e2e538015c530004f39cec"
+    },
+    {
+      "$oid": "60e2e6ee6911a70004aa66c0"
+    },
+    {
+      "$oid": "60e2e7116911a70004aa66c1"
+    },
+    {
+      "$oid": "60e2e7366911a70004aa66c2"
+    },
+    {
+      "$oid": "60e2e7476911a70004aa66c3"
+    },
+    {
+      "$oid": "60e2e7ce6911a70004aa66c4"
+    },
+    {
+      "$oid": "60e2e7dd6911a70004aa66c5"
+    },
+    {
+      "$oid": "60e2e8176911a70004aa66c6"
+    },
+    {
+      "$oid": "60e2e8aa6911a70004aa66c7"
+    },
+    {
+      "$oid": "60e2e8ab6911a70004aa66c8"
+    },
+    {
+      "$oid": "60e2e8e76911a70004aa66c9"
+    },
+    {
+      "$oid": "60e2e9126911a70004aa66ca"
+    },
+    {
+      "$oid": "60e2e95a6911a70004aa66cb"
+    },
+    {
+      "$oid": "60e2e97b6911a70004aa66cc"
+    },
+    {
+      "$oid": "60e2e9a76911a70004aa66cd"
+    },
+    {
+      "$oid": "60e2e9cb6911a70004aa66ce"
+    },
+    {
+      "$oid": "60e2ec012de0b20004e03cbb"
+    }
+  ],
+  "status": "close",
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Barcelona the unisex salon",
+  "address": "122,Murtidham Park opp. Gaytri gathiya raspan cross road nikol ahmedabad",
+   location : 23.0507453,72.6694842
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1230",
+  "openTime": "0900",
+  "closeTime": "2130",
+  "vendorId": "60e2e17a015c530004f39cd6",
+  "phone": "+918160797217",
+  "createdAt": {
+    "$date": "2021-07-05T10:43:34.561Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-06T06:27:54.982Z"
+  },
+  "__v": 0,
+  "rank": 12
+},{
+  "_id": {
+    "$oid": "60e6e3af4316ac0004058abd"
+  },
+  "Services": [
+    {
+      "$oid": "60e6e3c04316ac0004058abe"
+    },
+    {
+      "$oid": "60e6e3ce4316ac0004058abf"
+    },
+    {
+      "$oid": "60e6e3dd4316ac0004058ac0"
+    },
+    {
+      "$oid": "60e6e3e84316ac0004058ac1"
+    },
+    {
+      "$oid": "60e6e3fa4316ac0004058ac2"
+    },
+    {
+      "$oid": "60e6e4064316ac0004058ac3"
+    },
+    {
+      "$oid": "60e6e4134316ac0004058ac4"
+    },
+    {
+      "$oid": "60e6e4204316ac0004058ac5"
+    },
+    {
+      "$oid": "60e6e42d4316ac0004058ac6"
+    },
+    {
+      "$oid": "60e6e4384316ac0004058ac7"
+    },
+    {
+      "$oid": "60e6e44f4316ac0004058ac8"
+    },
+    {
+      "$oid": "60e6e4604316ac0004058ac9"
+    },
+    {
+      "$oid": "60e6e46f4316ac0004058aca"
+    },
+    {
+      "$oid": "60e6e4824316ac0004058acb"
+    },
+    {
+      "$oid": "60e6e49f4316ac0004058acc"
+    },
+    {
+      "$oid": "60e6e4af4316ac0004058acd"
+    },
+    {
+      "$oid": "60e6e4be4316ac0004058ace"
+    },
+    {
+      "$oid": "60e6e4f94316ac0004058acf"
+    },
+    {
+      "$oid": "60e6e5114316ac0004058ad0"
+    },
+    {
+      "$oid": "60e6e5394316ac0004058ad1"
+    },
+    {
+      "$oid": "60e6e5514316ac0004058ad2"
+    },
+    {
+      "$oid": "60e6e56c4316ac0004058ad3"
+    },
+    {
+      "$oid": "60e6e57d4316ac0004058ad4"
+    },
+    {
+      "$oid": "60e6e5994316ac0004058ad5"
+    },
+    {
+      "$oid": "60e6e5b04316ac0004058ad6"
+    },
+    {
+      "$oid": "60e6e5de4316ac0004058ad7"
+    },
+    {
+      "$oid": "60e6e5f34316ac0004058ad8"
+    },
+    {
+      "$oid": "60e6e6104316ac0004058ad9"
+    },
+    {
+      "$oid": "60e6e6294316ac0004058ada"
+    },
+    {
+      "$oid": "60e6e6714316ac0004058adc"
+    },
+    {
+      "$oid": "60e6e6ec4316ac0004058add"
+    },
+    {
+      "$oid": "60e6e7124316ac0004058ade"
+    },
+    {
+      "$oid": "60e6e7444316ac0004058adf"
+    },
+    {
+      "$oid": "60e6e75b4316ac0004058ae0"
+    },
+    {
+      "$oid": "60e6e7754316ac0004058ae1"
+    },
+    {
+      "$oid": "60e6e7e54316ac0004058ae2"
+    },
+    {
+      "$oid": "60e6e8004316ac0004058ae3"
+    },
+    {
+      "$oid": "60e6e8174316ac0004058ae4"
+    },
+    {
+      "$oid": "60e6e82f4316ac0004058ae5"
+    },
+    {
+      "$oid": "60e6e84a4316ac0004058ae6"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "rank": 7,
+  "name": "Studio-A the family salon",
+  "address": "C-6,revati plaza,bhakti circle,nikol, Ahmedabad",
+   location : 23.0523741,72.6801865
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0930",
+  "closeTime": "2200",
+  "vendorId": "60dc53050eed9600045852f2",
+  "phone": "+918320163716",
+  "createdAt": {
+    "$date": "2021-07-08T11:38:23.369Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-08T11:58:02.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e6efd04316ac0004058ae9"
+  },
+  "Services": [
+    {
+      "$oid": "60e6eff54316ac0004058aea"
+    },
+    {
+      "$oid": "60e6f0164316ac0004058aeb"
+    },
+    {
+      "$oid": "60e6f0204316ac0004058aec"
+    },
+    {
+      "$oid": "60e6f02b4316ac0004058aed"
+    },
+    {
+      "$oid": "60e6f0374316ac0004058aee"
+    },
+    {
+      "$oid": "60e6f0434316ac0004058aef"
+    },
+    {
+      "$oid": "60e6f0514316ac0004058af0"
+    },
+    {
+      "$oid": "60e6f05f4316ac0004058af1"
+    },
+    {
+      "$oid": "60e6f06c4316ac0004058af2"
+    },
+    {
+      "$oid": "60e6f07a4316ac0004058af3"
+    },
+    {
+      "$oid": "60e6f0884316ac0004058af4"
+    },
+    {
+      "$oid": "60e6f0934316ac0004058af5"
+    },
+    {
+      "$oid": "60e6f0d34316ac0004058af6"
+    },
+    {
+      "$oid": "60e6f0e44316ac0004058af7"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "rank": 13,
+  "name": "Chess salon",
+  "address": "Shop 6 ground floor sai flora nr gokul party plot raspan char rasta nikoal",
+   location : 23.0492905,72.6692807
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "vendorId": "60e6eee04316ac0004058ae8",
+  "phone": "+917874986817",
+  "createdAt": {
+    "$date": "2021-07-08T12:30:08.423Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-08T12:50:31.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e943fa6e77450004ed1358"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "name": "Choice hair & beauty salon",
+  "address": "Giriraaj enclave Devratn circle nikol gam road",
+   location : 23.0408526,72.669461
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1230",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "vendorId": "60e942a16e77450004ed1357",
+  "phone": "+919904096683",
+  "createdAt": {
+    "$date": "2021-07-10T06:53:46.857Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-10T06:53:46.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60f071e90622740004f4f4b6"
+  },
+  "Services": [],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 13,
+  "show": true,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "rank": 1,
+  "name": "BELA'S BRIDAL STUDIO AND ACADEMY ",
+  "address": "112-113, Pam Arcade, Opp. Shula Police Chowki, Shukan Cross Rd., Nikol, Ahmedabad, Gujarat - 382350",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1930",
+  "vendorId": "60f0701f0622740004f4f4b5",
+  "phone": "+919979917816",
+  "createdAt": {
+    "$date": "2021-07-15T17:35:37.490Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-15T17:49:07.423Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fd952a0e6ab5000447dc48"
+  },
+  "Services": [
+    {
+      "$oid": "60fe61df4e04e500048265f4"
+    },
+    {
+      "$oid": "60fe62124e04e500048265f5"
+    },
+    {
+      "$oid": "60fe624d4e04e500048265f6"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 16,
+  "show": false,
+  "instaId": "Beautyart_salon",
+  "instagramStatus": "pending",
+  "name": "ABC",
+  "address": "Shop no-3,radhe complex,satellite, ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "referalCode": "",
+  "vendorId": "60fd93d10e6ab5000447dc47",
+  "phone": "+919609375777",
+  "createdAt": {
+    "$date": "2021-07-25T16:45:30.936Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-30T14:56:09.640Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fe7c0a7c558f00046adde2"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": "Ashokprajapati7306",
+  "instagramStatus": "pending",
+  "name": "Khestrpal marketing",
+  "address": "Vasna",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "380007",
+  "vendorId": "60fe7b567c558f00046adde1",
+  "phone": "+918320845052",
+  "createdAt": {
+    "$date": "2021-07-26T09:10:34.270Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-26T09:11:24.516Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ffecb6abdd85000462b964"
+  },
+  "Services": [
+    {
+      "$oid": "60ffed95abdd85000462b965"
+    },
+    {
+      "$oid": "60fff14ca71dea0004c7dda3"
+    },
+    {
+      "$oid": "60fff16da71dea0004c7dda4"
+    },
+    {
+      "$oid": "60fff18fa71dea0004c7dda5"
+    },
+    {
+      "$oid": "60fff1bba71dea0004c7dda6"
+    },
+    {
+      "$oid": "60fff1e4a71dea0004c7dda7"
+    },
+    {
+      "$oid": "60fff201a71dea0004c7dda8"
+    },
+    {
+      "$oid": "60fff243a71dea0004c7dda9"
+    },
+    {
+      "$oid": "60fff267a71dea0004c7ddaa"
+    },
+    {
+      "$oid": "60fff29ca71dea0004c7ddab"
+    },
+    {
+      "$oid": "60fff2bca71dea0004c7ddac"
+    },
+    {
+      "$oid": "60fff2eca71dea0004c7ddad"
+    },
+    {
+      "$oid": "60fff338a71dea0004c7ddae"
+    },
+    {
+      "$oid": "60fff356a71dea0004c7ddaf"
+    },
+    {
+      "$oid": "60fff369a71dea0004c7ddb0"
+    },
+    {
+      "$oid": "60fff391a71dea0004c7ddb1"
+    },
+    {
+      "$oid": "60fff3a7a71dea0004c7ddb2"
+    },
+    {
+      "$oid": "60fff3c3a71dea0004c7ddb3"
+    },
+    {
+      "$oid": "60fff423a71dea0004c7ddb4"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "nymphs.salon",
+  "instagramStatus": "pending",
+  "name": "Nymphs Salon",
+  "address": "106 West Face, Nr Bagban Party Plot, Zydus hospital road, Thaltej",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "60ffeb69abdd85000462b963",
+  "phone": "+917228087999",
+  "createdAt": {
+    "$date": "2021-07-27T11:23:34.684Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T06:22:39.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fffa71a71dea0004c7ddb6"
+  },
+  "Services": [
+    {
+      "$oid": "60fffa9aa71dea0004c7ddb7"
+    },
+    {
+      "$oid": "60fffaa9a71dea0004c7ddb8"
+    },
+    {
+      "$oid": "60fffabca71dea0004c7ddb9"
+    },
+    {
+      "$oid": "60fffacba71dea0004c7ddba"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Sanjayparekh2202",
+  "instagramStatus": "pending",
+  "name": "SK HAIR & BEAUTY STUDIO",
+  "address": "B-103- Above ICICI bank, silver square complex, opp. Baghban Party Plot, Thaltej-Shilaj road, Thaltej",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0700",
+  "closeTime": "2030",
+  "referalCode": "7203056001",
+  "vendorId": "60fff977a71dea0004c7ddb5",
+  "phone": "+917016856433",
+  "createdAt": {
+    "$date": "2021-07-27T12:22:09.105Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-27T12:23:40.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6100088ab98f5b0004232e13"
+  },
+  "Services": [
+    {
+      "$oid": "61000bd7b98f5b0004232e18"
+    }
+  ],
+  "status": "open",
+  "sumRating": 115,
+  "noOfReview": 32,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 16,
+  "show": true,
+  "instaId": "raviyoti3",
+  "instagramStatus": "confirmed",
+  "name": "Test shop",
+  "address": "Address",
+  "city": "patan",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "",
+  "vendorId": "60e41de3c14bc700040bed01",
+  "phone": "+911234567890",
+  "createdAt": {
+    "$date": "2021-07-27T13:22:18.251Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T17:11:22.780Z"
+  },
+  "__v": 0,
+  "stylist": [
+    {
+      "$oid": "6130f2a409f2b854a811d5bf"
+    },
+    {
+      "$oid": "6130f2c809f2b854a811d5c0"
+    },
+    {
+      "$oid": "6130f2d509f2b854a811d5c1"
+    },
+    {
+      "$oid": "6130f2e109f2b854a811d5c2"
+    },
+    {
+      "$oid": "613c84d230289248c42b2563"
+    },
+    {
+      "$oid": "613ce33a02c13b1a609fb8b7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6101275b99c9600004d218d6"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Favorite _the_family_salon",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Favorite the  family salon ",
+  "address": "A103 rectified plaza complex Bhakti circle new nikol ",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "382350",
+  "vendorId": "6101268399c9600004d218d5",
+  "phone": "+917990032532",
+  "createdAt": {
+    "$date": "2021-07-28T09:46:03.562Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-28T09:46:03.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61013c6381f24f000417ece5"
+  },
+  "Services": [
+    {
+      "$oid": "61013c8b81f24f000417ece7"
+    },
+    {
+      "$oid": "61013c9a81f24f000417ece8"
+    },
+    {
+      "$oid": "61013cb081f24f000417ecea"
+    },
+    {
+      "$oid": "61013cc081f24f000417eceb"
+    },
+    {
+      "$oid": "61013cce81f24f000417ecec"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Jink_makeup ",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Jink a makeup & hair studio ",
+  "address": "Meghansh complex, opp. Oxford tower, gurukul, ",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1100",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "61013b7881f24f000417ece4",
+  "phone": "+918200576202",
+  "createdAt": {
+    "$date": "2021-07-28T11:15:47.060Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-28T11:17:34.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610140aa81f24f000417ecf3"
+  },
+  "Services": [
+    {
+      "$oid": "6101411b81f24f000417ecf6"
+    },
+    {
+      "$oid": "6101450681f24f000417ecf8"
+    },
+    {
+      "$oid": "6101451981f24f000417ecf9"
+    },
+    {
+      "$oid": "6101457bf73e900004609f10"
+    },
+    {
+      "$oid": "6101458cf73e900004609f11"
+    },
+    {
+      "$oid": "610145a6f73e900004609f12"
+    },
+    {
+      "$oid": "610145bbf73e900004609f13"
+    },
+    {
+      "$oid": "610145cef73e900004609f14"
+    },
+    {
+      "$oid": "610145ddf73e900004609f15"
+    },
+    {
+      "$oid": "610145f1f73e900004609f16"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 16,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "RK kari art",
+  "address": "F-10  veemurti complex opp oxfored tower gurukul membagar ahmedabad 380052",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2130",
+  "referalCode": "",
+  "vendorId": "61013fec81f24f000417ecf2",
+  "phone": "+919727024742",
+  "createdAt": {
+    "$date": "2021-07-28T11:34:02.988Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-13T14:48:37.788Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610140d681f24f000417ecf4"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Vishal_parekh_880",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "RK kari art",
+  "address": "F-10  veemurti complex opp oxfored tower gurukul membagar ahmedabad 380052",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2130",
+  "referalCode": "7203056001",
+  "vendorId": "61013fec81f24f000417ecf2",
+  "phone": "+919727024742",
+  "createdAt": {
+    "$date": "2021-07-28T11:34:46.084Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-28T11:34:46.084Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61016a105af0040004ba5442"
+  },
+  "Services": [
+    {
+      "$oid": "61016a375af0040004ba5444"
+    },
+    {
+      "$oid": "61016a515af0040004ba5446"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "A+familly salon",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "A+ Familly salon",
+  "address": "10, bhagwat complex, sayona city road ,Ne RC technical College,SG highway Sola Bhagwat,Ahmedabad",
+  "city": "ghatlodiya",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "610169255af0040004ba5440",
+  "phone": "+919825823488",
+  "createdAt": {
+    "$date": "2021-07-28T14:30:40.884Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-28T14:31:45.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61016f7b5af0040004ba544b"
+  },
+  "Services": [
+    {
+      "$oid": "61016fc75af0040004ba544c"
+    },
+    {
+      "$oid": "61016fe05af0040004ba544d"
+    },
+    {
+      "$oid": "610237e8b156c400044036e0"
+    },
+    {
+      "$oid": "61023809b156c400044036e1"
+    },
+    {
+      "$oid": "61023891b156c400044036e3"
+    },
+    {
+      "$oid": "610238f8b156c400044036e4"
+    },
+    {
+      "$oid": "6102391ab156c400044036e5"
+    },
+    {
+      "$oid": "61023982b156c400044036e6"
+    },
+    {
+      "$oid": "610239a6b156c400044036e7"
+    },
+    {
+      "$oid": "61023a0fb156c400044036e8"
+    },
+    {
+      "$oid": "61023a36b156c400044036e9"
+    },
+    {
+      "$oid": "61023a83b156c400044036ea"
+    },
+    {
+      "$oid": "61023a9db156c400044036eb"
+    },
+    {
+      "$oid": "61023acbb156c400044036ec"
+    },
+    {
+      "$oid": "61023b04b156c400044036ed"
+    },
+    {
+      "$oid": "61023b31b156c400044036ee"
+    },
+    {
+      "$oid": "61023b8ab156c400044036f0"
+    },
+    {
+      "$oid": "61023ba0b156c400044036f1"
+    },
+    {
+      "$oid": "61023bc8b156c400044036f2"
+    },
+    {
+      "$oid": "61023be2b156c400044036f3"
+    },
+    {
+      "$oid": "61023c0bb156c400044036f4"
+    },
+    {
+      "$oid": "61023c21b156c400044036f5"
+    },
+    {
+      "$oid": "61023c6bb156c400044036f6"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "accurate_glamour_salon",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Accurate Glamour The familly salon",
+  "address": "\nShop - 10 shimandha residency 2\nOpp - Sridarshan apartment\nBank of Baroda road\nOpp - silver Star complex\nChandlodiya\nAhemdabad",
+  "city": "chandlodia",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "61016e755af0040004ba544a",
+  "phone": "+919714598545",
+  "createdAt": {
+    "$date": "2021-07-28T14:53:47.462Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T06:38:05.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6101757b5af0040004ba5451"
+  },
+  "Services": [
+    {
+      "$oid": "610175bd5af0040004ba5452"
+    },
+    {
+      "$oid": "610175e65af0040004ba5453"
+    },
+    {
+      "$oid": "610175f85af0040004ba5454"
+    },
+    {
+      "$oid": "610176315af0040004ba5455"
+    },
+    {
+      "$oid": "6101764e5af0040004ba5456"
+    },
+    {
+      "$oid": "6101766b5af0040004ba5457"
+    },
+    {
+      "$oid": "6101768d5af0040004ba5458"
+    },
+    {
+      "$oid": "610176c45af0040004ba5459"
+    },
+    {
+      "$oid": "610176fa5af0040004ba545a"
+    },
+    {
+      "$oid": "6101770c5af0040004ba545b"
+    },
+    {
+      "$oid": "610183115af0040004ba545e"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Suresh_mujpura",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Shree Keshar bhavani Hair Salon",
+  "address": "B-04 shreenathji complex near shreeji jwelers, prakash nagar cross road Chandlodia Ahmedabad",
+  "city": "chandlodia",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "referalCode": "7203056001",
+  "vendorId": "610173c15af0040004ba5450",
+  "phone": "+919898520619",
+  "createdAt": {
+    "$date": "2021-07-28T15:19:23.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-04T17:36:24.270Z"
+  },
+  "__v": 0,
+  "location": {
+    "longitude": null,
+    "latitude": null
+  }
+},{
+  "_id": {
+    "$oid": "610290659ba2c50004a23fe0"
+  },
+  "Services": [
+    {
+      "$oid": "610290a29ba2c50004a23fe1"
+    },
+    {
+      "$oid": "610290de9ba2c50004a23fe2"
+    },
+    {
+      "$oid": "610291479ba2c50004a23fe3"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": "Chandrika5537",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Cutz N Glitz salon",
+  "address": "Ff,103 Signature Complex near suvaran Bunglows Thaltej",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1930",
+  "referalCode": "6353150508",
+  "vendorId": "61028f8a9ba2c50004a23fdf",
+  "phone": "+917878077881",
+  "createdAt": {
+    "$date": "2021-07-29T11:26:29.192Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-17T09:45:13.415Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61029a8a9ba2c50004a23fe8"
+  },
+  "Services": [
+    {
+      "$oid": "61029ac99ba2c50004a23fe9"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 16,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Mahendi Beauty Care ",
+  "address": "B/118/119 Silver Square Complex, Thaltej Shilaj Road ,Opp.Baghban partyplot, Ahmedabad ",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1100",
+  "closeTime": "1830",
+  "referalCode": "7203056001",
+  "vendorId": "610299359ba2c50004a23fe7",
+  "phone": "+919824537572",
+  "createdAt": {
+    "$date": "2021-07-29T12:09:46.643Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T09:10:40.840Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102a3e69ba2c50004a23fee"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "mayur hair studio",
+  "address": "Shop 19 Takshshila App Bagban char rasta Thaltej Ahmedabad",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1400",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "6102a2ea9ba2c50004a23fed",
+  "phone": "+919099950463",
+  "createdAt": {
+    "$date": "2021-07-29T12:49:42.451Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-02T04:30:04.153Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6102a3f49ba2c50004a23fef"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "mdasadiyaanil",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "mayur hair studio",
+  "address": "Shop 19 Takshshila App Bagban char rasta Thaltej Ahmedabad",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1400",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "6102a2ea9ba2c50004a23fed",
+  "phone": "+919099950463",
+  "createdAt": {
+    "$date": "2021-07-29T12:49:56.863Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-29T12:49:56.863Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6103debae1d7ed000403786e"
+  },
+  "Services": [
+    {
+      "$oid": "6103dfabe1d7ed000403786f"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 16,
+  "show": true,
+  "instaId": "Spree_the_unisex_salon_",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Spree the unisex salon",
+   location : 23.0408526,72.669461
+  "address": "5'6 1st floor sai flora b/h Gokul party plot raspan cross road",
+  "city": "ahmedabad",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "",
+  "vendorId": "6103dd80e1d7ed000403786d",
+  "phone": "+919681055555",
+  "createdAt": {
+    "$date": "2021-07-30T11:12:58.525Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-30T11:16:59.857Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6103e6dce1d7ed0004037872"
+  },
+  "Services": [
+    {
+      "$oid": "6103e772e1d7ed0004037873"
+    },
+    {
+      "$oid": "6103e79ee1d7ed0004037875"
+    },
+    {
+      "$oid": "6103e7aee1d7ed0004037876"
+    },
+    {
+      "$oid": "6103e7f0e1d7ed0004037877"
+    },
+    {
+      "$oid": "6103e817e1d7ed0004037878"
+    },
+    {
+      "$oid": "6103e827e1d7ed0004037879"
+    },
+    {
+      "$oid": "6103e843e1d7ed000403787a"
+    },
+    {
+      "$oid": "6103e862e1d7ed000403787b"
+    },
+    {
+      "$oid": "6103e88ce1d7ed000403787c"
+    },
+    {
+      "$oid": "6103e8cde1d7ed000403787d"
+    },
+    {
+      "$oid": "6103e8f6e1d7ed000403787e"
+    },
+    {
+      "$oid": "6103e959e1d7ed000403787f"
+    },
+    {
+      "$oid": "6103e979e1d7ed0004037880"
+    },
+    {
+      "$oid": "6103e9f0e1d7ed0004037881"
+    },
+    {
+      "$oid": "6103ea39e1d7ed0004037882"
+    },
+    {
+      "$oid": "6103ea7be1d7ed0004037883"
+    },
+    {
+      "$oid": "6103eab0e1d7ed0004037884"
+    },
+    {
+      "$oid": "6103eaece1d7ed0004037885"
+    },
+    {
+      "$oid": "6103eb25e1d7ed0004037886"
+    },
+    {
+      "$oid": "6103eb4ae1d7ed0004037887"
+    },
+    {
+      "$oid": "6103eb62e1d7ed0004037888"
+    },
+    {
+      "$oid": "6103eba4e1d7ed0004037889"
+    },
+    {
+      "$oid": "6103ebbbe1d7ed000403788a"
+    },
+    {
+      "$oid": "6103ec33e1d7ed000403788b"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Dream touch beauty care ",
+  "address": "19 Akshardham complex ne.premchand nagar judges Bunglows bodakdev Ahmedabad ",
+   location : https://www.google.co.in/maps/place/Dream+Touch/@23.032971,72.5202289,17z/data=!4m13!1m6!3m5!1s0x395e84b54fd4286b:0x37c3332bfd5baee!2sDream+Touch!8m2!3d23.034118!4d72.522643!3m5!1s0x395e84b54fd4286b:0x37c3332bfd5baee!8m2!3d23.034118!4d72.522643!15sCiFkcmVhbSB0b3VjaCBiZWF1dHkgY2FyZSBhaG1lZGFiYWSSAQxiZWF1dHlfc2Fsb24
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "referalCode": "6353150508",
+  "vendorId": "6103e639e1d7ed0004037871",
+  "phone": "+918141912399",
+  "createdAt": {
+    "$date": "2021-07-30T11:47:40.819Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-03T09:40:51.898Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6103f2a0e1d7ed000403788e"
+  },
+  "Services": [
+    {
+      "$oid": "6103f313e1d7ed000403788f"
+    },
+    {
+      "$oid": "6103f331e1d7ed0004037890"
+    },
+    {
+      "$oid": "6103f34de1d7ed0004037891"
+    },
+    {
+      "$oid": "6103f35ee1d7ed0004037892"
+    },
+    {
+      "$oid": "6103f379e1d7ed0004037893"
+    },
+    {
+      "$oid": "6103f38de1d7ed0004037894"
+    },
+    {
+      "$oid": "6103f3afe1d7ed0004037895"
+    },
+    {
+      "$oid": "6103f3eee1d7ed0004037896"
+    },
+    {
+      "$oid": "6103f415e1d7ed0004037897"
+    },
+    {
+      "$oid": "6103f449e1d7ed0004037898"
+    },
+    {
+      "$oid": "6103f478e1d7ed0004037899"
+    },
+    {
+      "$oid": "6103f487e1d7ed000403789a"
+    },
+    {
+      "$oid": "6103f4a0e1d7ed000403789b"
+    },
+    {
+      "$oid": "6103f4bde1d7ed000403789c"
+    },
+    {
+      "$oid": "6103f4dce1d7ed000403789d"
+    },
+    {
+      "$oid": "6103f512e1d7ed000403789e"
+    },
+    {
+      "$oid": "6103f533e1d7ed000403789f"
+    },
+    {
+      "$oid": "6103f54ee1d7ed00040378a0"
+    },
+    {
+      "$oid": "6103f56ce1d7ed00040378a1"
+    },
+    {
+      "$oid": "6103f5bbe1d7ed00040378a2"
+    },
+    {
+      "$oid": "6103f614e1d7ed00040378a3"
+    },
+    {
+      "$oid": "6103f643e1d7ed00040378a4"
+    },
+    {
+      "$oid": "6103f66be1d7ed00040378a5"
+    },
+    {
+      "$oid": "6103f68ce1d7ed00040378a6"
+    },
+    {
+      "$oid": "6103f69ee1d7ed00040378a7"
+    },
+    {
+      "$oid": "6103f6d2e1d7ed00040378a8"
+    },
+    {
+      "$oid": "6103f704e1d7ed00040378a9"
+    },
+    {
+      "$oid": "6103f71ae1d7ed00040378aa"
+    },
+    {
+      "$oid": "6103f752e1d7ed00040378ab"
+    },
+    {
+      "$oid": "6103f78be1d7ed00040378ac"
+    },
+    {
+      "$oid": "6103f7ace1d7ed00040378ad"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Jawed Habib Hair studio",
+  "address": "UL 25 Akshardham complex near kampanwala, premchand nagar, judges bunglow road, Bodakdev, Ahmedabad-53",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "6103f141e1d7ed000403788d",
+  "phone": "+918487009116",
+  "createdAt": {
+    "$date": "2021-07-30T12:37:52.582Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T06:55:46.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107da06c639250004ea7f27"
+  },
+  "Services": [
+    {
+      "$oid": "6107da81c639250004ea7f28"
+    },
+    {
+      "$oid": "6107daa8c639250004ea7f29"
+    },
+    {
+      "$oid": "6107dacfc639250004ea7f2a"
+    },
+    {
+      "$oid": "6107db2bc639250004ea7f2b"
+    },
+    {
+      "$oid": "6107db8ac639250004ea7f2c"
+    },
+    {
+      "$oid": "6107dba7c639250004ea7f2d"
+    },
+    {
+      "$oid": "6107dbf4c639250004ea7f2e"
+    },
+    {
+      "$oid": "6107dc1ac639250004ea7f2f"
+    },
+    {
+      "$oid": "6107dc68c639250004ea7f30"
+    },
+    {
+      "$oid": "6107dc82c639250004ea7f31"
+    },
+    {
+      "$oid": "6107dc9cc639250004ea7f32"
+    },
+    {
+      "$oid": "6107dcb2c639250004ea7f33"
+    },
+    {
+      "$oid": "6107dcc7c639250004ea7f34"
+    },
+    {
+      "$oid": "6107dcdac639250004ea7f35"
+    },
+    {
+      "$oid": "6107dcf6c639250004ea7f36"
+    },
+    {
+      "$oid": "6107dd7cc639250004ea7f37"
+    },
+    {
+      "$oid": "6107ddadc639250004ea7f38"
+    },
+    {
+      "$oid": "6107ddc4c639250004ea7f39"
+    },
+    {
+      "$oid": "6107ddddc639250004ea7f3a"
+    },
+    {
+      "$oid": "6107ddf7c639250004ea7f3b"
+    },
+    {
+      "$oid": "6107de09c639250004ea7f3c"
+    },
+    {
+      "$oid": "6107de1ac639250004ea7f3d"
+    },
+    {
+      "$oid": "6107de2bc639250004ea7f3e"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Face value Beauty salon",
+  "address": "F-5, Aaryaman aavas ,Ramdevnagar cross road,Opp.saibaba temple , Ramdevnagar, Ahmedabad,-15",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "referalCode": "6353150508",
+  "vendorId": "6107d8aec639250004ea7f26",
+  "phone": "+919228356985",
+  "createdAt": {
+    "$date": "2021-08-02T11:41:58.914Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-02T12:14:35.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107e409c639250004ea7f41"
+  },
+  "Services": [
+    {
+      "$oid": "6107e457c639250004ea7f42"
+    },
+    {
+      "$oid": "6107e498c639250004ea7f43"
+    },
+    {
+      "$oid": "6107e4abc639250004ea7f44"
+    },
+    {
+      "$oid": "6107e4b9c639250004ea7f45"
+    },
+    {
+      "$oid": "6107e4cbc639250004ea7f46"
+    },
+    {
+      "$oid": "6107e4dcc639250004ea7f47"
+    },
+    {
+      "$oid": "6107e4efc639250004ea7f48"
+    },
+    {
+      "$oid": "6107e501c639250004ea7f49"
+    },
+    {
+      "$oid": "6107e517c639250004ea7f4a"
+    },
+    {
+      "$oid": "6107e558c639250004ea7f4b"
+    },
+    {
+      "$oid": "6107e571c639250004ea7f4d"
+    },
+    {
+      "$oid": "6107e588c639250004ea7f4e"
+    },
+    {
+      "$oid": "6107e59bc639250004ea7f4f"
+    },
+    {
+      "$oid": "6107e5afc639250004ea7f50"
+    },
+    {
+      "$oid": "6107e5c5c639250004ea7f51"
+    },
+    {
+      "$oid": "6107e5d4c639250004ea7f52"
+    },
+    {
+      "$oid": "6107e5eac639250004ea7f53"
+    },
+    {
+      "$oid": "6107e60ac639250004ea7f54"
+    },
+    {
+      "$oid": "6107e61ac639250004ea7f55"
+    },
+    {
+      "$oid": "6107e630c639250004ea7f56"
+    },
+    {
+      "$oid": "6107e650c639250004ea7f57"
+    },
+    {
+      "$oid": "6107e65fc639250004ea7f58"
+    },
+    {
+      "$oid": "6107e675c639250004ea7f59"
+    },
+    {
+      "$oid": "6107e681c639250004ea7f5a"
+    }
+  ],
+  "status": "close",
+  "sumRating": 6,
+  "noOfReview": 2,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "New look beauty salon",
+  "address": "F-17, Sarthi Avenue, B/H Courtyard Marriott, Ramdevnagarvcross road, satellite, Ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1230",
+  "openTime": "0930",
+  "closeTime": "1830",
+  "referalCode": "7203056001",
+  "vendorId": "6107e213c639250004ea7f40",
+  "phone": "+919898338620",
+  "createdAt": {
+    "$date": "2021-08-02T12:24:41.418Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T05:48:46.140Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107ee8cc639250004ea7f61"
+  },
+  "Services": [
+    {
+      "$oid": "6107ef64c639250004ea7f62"
+    },
+    {
+      "$oid": "6107efc0c639250004ea7f63"
+    },
+    {
+      "$oid": "6107efdbc639250004ea7f64"
+    },
+    {
+      "$oid": "6107f0f8c639250004ea7f66"
+    },
+    {
+      "$oid": "6107f144c639250004ea7f68"
+    },
+    {
+      "$oid": "6107f171c639250004ea7f69"
+    },
+    {
+      "$oid": "6107f185c639250004ea7f6a"
+    },
+    {
+      "$oid": "6107f19ac639250004ea7f6b"
+    },
+    {
+      "$oid": "6107f1b2c639250004ea7f6c"
+    },
+    {
+      "$oid": "6107f1d6c639250004ea7f6d"
+    },
+    {
+      "$oid": "6107f1f7c639250004ea7f6e"
+    },
+    {
+      "$oid": "6107f20ac639250004ea7f6f"
+    },
+    {
+      "$oid": "6107f22bc639250004ea7f70"
+    },
+    {
+      "$oid": "6107f255c639250004ea7f71"
+    },
+    {
+      "$oid": "6107f26bc639250004ea7f72"
+    },
+    {
+      "$oid": "6107f28cc639250004ea7f73"
+    },
+    {
+      "$oid": "6107f2a4c639250004ea7f74"
+    },
+    {
+      "$oid": "6107f2b7c639250004ea7f75"
+    },
+    {
+      "$oid": "6107f2d1c639250004ea7f76"
+    },
+    {
+      "$oid": "6107f2edc639250004ea7f77"
+    },
+    {
+      "$oid": "6107f304c639250004ea7f78"
+    },
+    {
+      "$oid": "6107f327c639250004ea7f79"
+    },
+    {
+      "$oid": "6107f344c639250004ea7f7a"
+    },
+    {
+      "$oid": "6107f356c639250004ea7f7b"
+    },
+    {
+      "$oid": "6107f375c639250004ea7f7c"
+    },
+    {
+      "$oid": "6107f3b0c639250004ea7f7d"
+    },
+    {
+      "$oid": "6107f3e1c639250004ea7f7e"
+    },
+    {
+      "$oid": "6107f3fbc639250004ea7f7f"
+    },
+    {
+      "$oid": "6107f40bc639250004ea7f80"
+    },
+    {
+      "$oid": "6107f426c639250004ea7f81"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Amarr salon ",
+  "address": "5sarthi avenue oop revati tower ramdevnager satellite ",
+  "city": "sg_highway",
+  "breakDuration": 30,
+  "breakTime": "1400",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "6107ed23c639250004ea7f5f",
+  "phone": "+919925044343",
+  "createdAt": {
+    "$date": "2021-08-02T13:09:32.122Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-10T07:17:17.872Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6108f7fd8e6a9200048acf87"
+  },
+  "Services": [
+    {
+      "$oid": "6108f88e8e6a9200048acf88"
+    },
+    {
+      "$oid": "6108f8f98e6a9200048acf8a"
+    },
+    {
+      "$oid": "6108f9078e6a9200048acf8b"
+    },
+    {
+      "$oid": "6108f9178e6a9200048acf8c"
+    },
+    {
+      "$oid": "6108f9358e6a9200048acf8d"
+    },
+    {
+      "$oid": "6108f96b8e6a9200048acf8e"
+    },
+    {
+      "$oid": "6108f9888e6a9200048acf8f"
+    },
+    {
+      "$oid": "6108f9ac8e6a9200048acf90"
+    },
+    {
+      "$oid": "6108f9ed8e6a9200048acf91"
+    },
+    {
+      "$oid": "6108fa218e6a9200048acf92"
+    },
+    {
+      "$oid": "6108fa678e6a9200048acf93"
+    },
+    {
+      "$oid": "6108fa7c8e6a9200048acf94"
+    },
+    {
+      "$oid": "6108fa9e8e6a9200048acf95"
+    },
+    {
+      "$oid": "6108faab8e6a9200048acf96"
+    },
+    {
+      "$oid": "6108faea8e6a9200048acf97"
+    },
+    {
+      "$oid": "6108fb198e6a9200048acf98"
+    },
+    {
+      "$oid": "6108fb488e6a9200048acf99"
+    },
+    {
+      "$oid": "6108fb8b8e6a9200048acf9b"
+    },
+    {
+      "$oid": "6108fbb78e6a9200048acf9c"
+    },
+    {
+      "$oid": "6108fbce8e6a9200048acf9d"
+    },
+    {
+      "$oid": "6108fc258e6a9200048acf9e"
+    },
+    {
+      "$oid": "6108fc568e6a9200048acf9f"
+    },
+    {
+      "$oid": "6108fc808e6a9200048acfa0"
+    },
+    {
+      "$oid": "6108fca98e6a9200048acfa1"
+    },
+    {
+      "$oid": "6108fcd28e6a9200048acfa2"
+    },
+    {
+      "$oid": "6108fce78e6a9200048acfa3"
+    },
+    {
+      "$oid": "6108fd1c8e6a9200048acfa4"
+    },
+    {
+      "$oid": "6108fd308e6a9200048acfa5"
+    },
+    {
+      "$oid": "6108fd4b8e6a9200048acfa6"
+    },
+    {
+      "$oid": "6108fd698e6a9200048acfa7"
+    },
+    {
+      "$oid": "6108fd888e6a9200048acfa8"
+    },
+    {
+      "$oid": "6108fd988e6a9200048acfa9"
+    },
+    {
+      "$oid": "6108fdae8e6a9200048acfaa"
+    },
+    {
+      "$oid": "6108fdbb8e6a9200048acfab"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Enlivea Salon and Academy",
+  "address": "FF/3,Sarthak-2 , Above Lalit beauty collection,Opp. Honda showroom , Swastik cross road CG road Ahmedabad-09",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2000",
+  "referalCode": "7203056001",
+  "vendorId": "6108f6c88e6a9200048acf86",
+  "phone": "+918141880571",
+  "createdAt": {
+    "$date": "2021-08-03T08:02:05.540Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-03T08:26:35.317Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a7affeb26ce00042f5ac3"
+  },
+  "Services": [
+    {
+      "$oid": "610a7b55eb26ce00042f5ac4"
+    },
+    {
+      "$oid": "610a7b7feb26ce00042f5ac5"
+    },
+    {
+      "$oid": "610a7b92eb26ce00042f5ac6"
+    },
+    {
+      "$oid": "610a7bafeb26ce00042f5ac9"
+    },
+    {
+      "$oid": "610a7bc2eb26ce00042f5aca"
+    },
+    {
+      "$oid": "610a7bcdeb26ce00042f5acb"
+    },
+    {
+      "$oid": "610a7bdbeb26ce00042f5acc"
+    },
+    {
+      "$oid": "610a7bf1eb26ce00042f5acd"
+    },
+    {
+      "$oid": "610a7c06eb26ce00042f5ace"
+    },
+    {
+      "$oid": "610a7c20eb26ce00042f5acf"
+    },
+    {
+      "$oid": "610a7c31eb26ce00042f5ad0"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "ICONIC SALOON",
+  "address": "SHOP 2 AVADHTIRTH NR PRNATHIRT NR JODHPUR PINCOND 380015",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "610a7a1eeb26ce00042f5ac2",
+  "phone": "+919725183838",
+  "createdAt": {
+    "$date": "2021-08-04T11:33:19.484Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-07T10:02:47.188Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a8479eb26ce00042f5ad3"
+  },
+  "Services": [
+    {
+      "$oid": "610a84f8eb26ce00042f5ad4"
+    },
+    {
+      "$oid": "610a8512eb26ce00042f5ad5"
+    },
+    {
+      "$oid": "610a8520eb26ce00042f5ad6"
+    },
+    {
+      "$oid": "610a852eeb26ce00042f5ad7"
+    },
+    {
+      "$oid": "610a8542eb26ce00042f5ad8"
+    },
+    {
+      "$oid": "610a8559eb26ce00042f5ad9"
+    },
+    {
+      "$oid": "610a857deb26ce00042f5ada"
+    },
+    {
+      "$oid": "610a8596eb26ce00042f5adb"
+    },
+    {
+      "$oid": "610a85bdeb26ce00042f5adc"
+    },
+    {
+      "$oid": "610a85d3eb26ce00042f5add"
+    },
+    {
+      "$oid": "610a85e8eb26ce00042f5ade"
+    },
+    {
+      "$oid": "610a8615eb26ce00042f5adf"
+    },
+    {
+      "$oid": "610a863deb26ce00042f5ae0"
+    },
+    {
+      "$oid": "610a8657eb26ce00042f5ae1"
+    },
+    {
+      "$oid": "610a8668eb26ce00042f5ae2"
+    },
+    {
+      "$oid": "610a867aeb26ce00042f5ae3"
+    },
+    {
+      "$oid": "610a8692eb26ce00042f5ae4"
+    },
+    {
+      "$oid": "610a86bdeb26ce00042f5ae5"
+    },
+    {
+      "$oid": "610a86e4eb26ce00042f5ae6"
+    },
+    {
+      "$oid": "610a8702eb26ce00042f5ae7"
+    },
+    {
+      "$oid": "610a8784eb26ce00042f5ae8"
+    },
+    {
+      "$oid": "610a87a5eb26ce00042f5ae9"
+    },
+    {
+      "$oid": "610a87cfeb26ce00042f5aea"
+    },
+    {
+      "$oid": "610a87e4eb26ce00042f5aeb"
+    },
+    {
+      "$oid": "610a87f8eb26ce00042f5aec"
+    },
+    {
+      "$oid": "610a880eeb26ce00042f5aed"
+    },
+    {
+      "$oid": "610a881deb26ce00042f5aee"
+    },
+    {
+      "$oid": "610be120163cef000489d315"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Saffron Beauty care salon",
+  "address": "Pushpak appartment,prerna tirth Jain derasar road, satellite, Ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2000",
+  "referalCode": "7203056001",
+  "vendorId": "610a837eeb26ce00042f5ad2",
+  "phone": "+918155835705",
+  "createdAt": {
+    "$date": "2021-08-04T12:13:45.101Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T02:30:23.718Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a8e38eb26ce00042f5af2"
+  },
+  "Services": [
+    {
+      "$oid": "610a8ebfeb26ce00042f5af3"
+    },
+    {
+      "$oid": "610a8ed4eb26ce00042f5af4"
+    },
+    {
+      "$oid": "610a8ee1eb26ce00042f5af5"
+    },
+    {
+      "$oid": "610a8eeaeb26ce00042f5af6"
+    },
+    {
+      "$oid": "610a8f06eb26ce00042f5af7"
+    },
+    {
+      "$oid": "610a8f18eb26ce00042f5af8"
+    },
+    {
+      "$oid": "610a8f4deb26ce00042f5afa"
+    },
+    {
+      "$oid": "610a8f62eb26ce00042f5afb"
+    },
+    {
+      "$oid": "610a8f76eb26ce00042f5afc"
+    },
+    {
+      "$oid": "610a8f8eeb26ce00042f5afd"
+    },
+    {
+      "$oid": "610a8fb3eb26ce00042f5aff"
+    },
+    {
+      "$oid": "610a8fdbeb26ce00042f5b00"
+    },
+    {
+      "$oid": "610a8feceb26ce00042f5b01"
+    },
+    {
+      "$oid": "610a9027eb26ce00042f5b02"
+    },
+    {
+      "$oid": "610a9087eb26ce00042f5b03"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "VRAJ Hair Care",
+  "address": "35,Vraj vihar 6, B/h Rahul tower, anandnagar cross road satellite, Ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0830",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "610a8d45eb26ce00042f5af1",
+  "phone": "+918866640123",
+  "createdAt": {
+    "$date": "2021-08-04T12:55:20.877Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-04T13:06:30.790Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610a9abfeb26ce00042f5b07"
+  },
+  "Services": [],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "ZION UNISEX SALONS",
+  "address": "GF-14, DEV ARUM COMPLEX Road , Near Shell Petrol pump, Prahladnagar ahmedabad-15",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "610a9a01eb26ce00042f5b05",
+  "phone": "+918401104550",
+  "createdAt": {
+    "$date": "2021-08-04T13:48:47.585Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-09T10:32:32.925Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610bd8b7163cef000489d304"
+  },
+  "Services": [
+    {
+      "$oid": "610bd928163cef000489d305"
+    },
+    {
+      "$oid": "610bd99d163cef000489d306"
+    },
+    {
+      "$oid": "610bd9ca163cef000489d307"
+    },
+    {
+      "$oid": "610bd9dc163cef000489d308"
+    },
+    {
+      "$oid": "610bda02163cef000489d309"
+    },
+    {
+      "$oid": "610bda1e163cef000489d30a"
+    },
+    {
+      "$oid": "610bda30163cef000489d30b"
+    },
+    {
+      "$oid": "610bda4b163cef000489d30c"
+    },
+    {
+      "$oid": "610bda6d163cef000489d30d"
+    },
+    {
+      "$oid": "610bda7c163cef000489d30e"
+    },
+    {
+      "$oid": "610bda9e163cef000489d30f"
+    },
+    {
+      "$oid": "610bdac4163cef000489d310"
+    },
+    {
+      "$oid": "610bf2f39bb782000474140c"
+    },
+    {
+      "$oid": "610bf3999bb782000474140d"
+    },
+    {
+      "$oid": "6110f236499bb30004b56324"
+    },
+    {
+      "$oid": "6110f268499bb30004b56325"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 26,
+  "features": [
+    "NOTIFICATION",
+    "NOTIFICATION"
+  ],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": null,
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Foram Beaty Parlour",
+  "address": "108 shasan  complex , Opp. Prernatirth Derasar, Jodhpur, Satelite, Ahmedavad-15",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1400",
+  "openTime": "1100",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "610bd76a163cef000489d303",
+  "phone": "+919328976021",
+  "createdAt": {
+    "$date": "2021-08-05T12:25:27.358Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-13T14:00:45.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610be3d5163cef000489d317"
+  },
+  "Services": [
+    {
+      "$oid": "610be54a163cef000489d318"
+    },
+    {
+      "$oid": "610be7e7163cef000489d31c"
+    },
+    {
+      "$oid": "610be8a8163cef000489d31d"
+    },
+    {
+      "$oid": "610be8b9163cef000489d31e"
+    },
+    {
+      "$oid": "610be8c6163cef000489d31f"
+    },
+    {
+      "$oid": "610be922163cef000489d321"
+    },
+    {
+      "$oid": "610be93f163cef000489d322"
+    },
+    {
+      "$oid": "610be988163cef000489d323"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "jadavnensi_makeupartist",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "MAKE OVER BY NENSI",
+  "address": "F  -  19   shagunkasha Tower   , near  Ashok nagar ,  prerana tirth derasar  road, Ahmedabad-15",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "referalCode": "7203056001",
+  "vendorId": "610be247163cef000489d316",
+  "phone": "+919824254529",
+  "createdAt": {
+    "$date": "2021-08-05T13:12:53.989Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-05T14:30:47.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d218109f8800004a52e63"
+  },
+  "Services": [
+    {
+      "$oid": "610d21af09f8800004a52e64"
+    },
+    {
+      "$oid": "610d21dc09f8800004a52e65"
+    },
+    {
+      "$oid": "610d220509f8800004a52e66"
+    },
+    {
+      "$oid": "610d221409f8800004a52e67"
+    },
+    {
+      "$oid": "610d225809f8800004a52e68"
+    },
+    {
+      "$oid": "610d229e09f8800004a52e69"
+    },
+    {
+      "$oid": "610d22cc09f8800004a52e6a"
+    },
+    {
+      "$oid": "610d22f709f8800004a52e6b"
+    },
+    {
+      "$oid": "610d233609f8800004a52e6c"
+    },
+    {
+      "$oid": "610d234d09f8800004a52e6d"
+    },
+    {
+      "$oid": "610d238709f8800004a52e6e"
+    },
+    {
+      "$oid": "610d23a109f8800004a52e6f"
+    },
+    {
+      "$oid": "610d23ba09f8800004a52e70"
+    },
+    {
+      "$oid": "610d23de09f8800004a52e71"
+    },
+    {
+      "$oid": "610d23f209f8800004a52e72"
+    },
+    {
+      "$oid": "610d241d09f8800004a52e73"
+    },
+    {
+      "$oid": "610d244009f8800004a52e74"
+    },
+    {
+      "$oid": "610d246a09f8800004a52e75"
+    },
+    {
+      "$oid": "610d248e09f8800004a52e76"
+    },
+    {
+      "$oid": "610d24aa09f8800004a52e77"
+    },
+    {
+      "$oid": "610d24c409f8800004a52e78"
+    },
+    {
+      "$oid": "610d24eb09f8800004a52e79"
+    },
+    {
+      "$oid": "610d250c09f8800004a52e7a"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 21,
+  "features": [
+    "NOTIFICATION"
+  ],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "newrockstar74",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "NEW ROCKSTAR UNISEX SPALON",
+  "address": "Shop no.2,3, Vrajvihar-5,Opp. Gloria restuarant ,near prernatirth Derasar road.Satellite ",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2030",
+  "referalCode": "6353150508",
+  "vendorId": "610d1fdd09f8800004a52e62",
+  "phone": "+919824522209",
+  "createdAt": {
+    "$date": "2021-08-06T11:48:17.273Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T13:03:57.797Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d300909f8800004a52e87"
+  },
+  "Services": [
+    {
+      "$oid": "610d31d409f8800004a52e8c"
+    },
+    {
+      "$oid": "610d327009f8800004a52e8f"
+    },
+    {
+      "$oid": "610d32bb09f8800004a52e91"
+    },
+    {
+      "$oid": "610d32d609f8800004a52e92"
+    },
+    {
+      "$oid": "610d337409f8800004a52e94"
+    },
+    {
+      "$oid": "610d339609f8800004a52e95"
+    },
+    {
+      "$oid": "610d33c809f8800004a52e97"
+    },
+    {
+      "$oid": "610d33f809f8800004a52e98"
+    },
+    {
+      "$oid": "610d341f09f8800004a52e99"
+    },
+    {
+      "$oid": "610d347c09f8800004a52e9a"
+    },
+    {
+      "$oid": "610d34f609f8800004a52e9b"
+    },
+    {
+      "$oid": "610d355109f8800004a52e9c"
+    },
+    {
+      "$oid": "610d357709f8800004a52e9d"
+    },
+    {
+      "$oid": "610d35a809f8800004a52e9e"
+    },
+    {
+      "$oid": "610d35da09f8800004a52e9f"
+    },
+    {
+      "$oid": "610d360409f8800004a52ea0"
+    },
+    {
+      "$oid": "610d364f09f8800004a52ea2"
+    },
+    {
+      "$oid": "610d367c09f8800004a52ea3"
+    },
+    {
+      "$oid": "610d368c09f8800004a52ea4"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "divya_the_family_salon",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "DIVYA THE FAMILY SALON",
+  "address": "Ul_8 sidhsila complex , prernatirth derasar road Jodhpur, satelite,ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0930",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "610d2ea509f8800004a52e86",
+  "phone": "+919106359543",
+  "createdAt": {
+    "$date": "2021-08-06T12:50:17.837Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-06T13:18:04.595Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d40f909f8800004a52ea6"
+  },
+  "Services": [
+    {
+      "$oid": "610d444e09f8800004a52ea8"
+    },
+    {
+      "$oid": "610d447009f8800004a52ea9"
+    },
+    {
+      "$oid": "610d448f09f8800004a52eaa"
+    },
+    {
+      "$oid": "610d44ae09f8800004a52eab"
+    },
+    {
+      "$oid": "610d453fce2ec7000458efef"
+    },
+    {
+      "$oid": "610d4566ce2ec7000458eff0"
+    },
+    {
+      "$oid": "610d457ece2ec7000458eff1"
+    },
+    {
+      "$oid": "610d464cce2ec7000458eff3"
+    },
+    {
+      "$oid": "610d466bce2ec7000458eff4"
+    },
+    {
+      "$oid": "610d467dce2ec7000458eff5"
+    },
+    {
+      "$oid": "610d46b7ce2ec7000458eff6"
+    },
+    {
+      "$oid": "610d46d8ce2ec7000458eff7"
+    },
+    {
+      "$oid": "610d46eece2ec7000458eff8"
+    },
+    {
+      "$oid": "610d470ace2ec7000458eff9"
+    },
+    {
+      "$oid": "610d4722ce2ec7000458effa"
+    },
+    {
+      "$oid": "610d4745ce2ec7000458effb"
+    },
+    {
+      "$oid": "610d4754ce2ec7000458effc"
+    },
+    {
+      "$oid": "610d4765ce2ec7000458effd"
+    },
+    {
+      "$oid": "610d4777ce2ec7000458effe"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "thelifesteylsallon",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "THE LIFE STYLE SALON",
+  "address": "Shop no. G.f.alok apartment , opp.new bhagya shakti society , jodhpur satellite , ahmedabad -15",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1100",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "610d3e4f09f8800004a52ea5",
+  "phone": "+918200151600",
+  "createdAt": {
+    "$date": "2021-08-06T14:02:33.343Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-27T20:02:30.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610e699780bd0e000428c876"
+  },
+  "Services": [
+    {
+      "$oid": "610e6ac980bd0e000428c877"
+    },
+    {
+      "$oid": "610e6ae280bd0e000428c878"
+    },
+    {
+      "$oid": "610e6b1d80bd0e000428c879"
+    },
+    {
+      "$oid": "610e6b3380bd0e000428c87a"
+    },
+    {
+      "$oid": "610e6c7880bd0e000428c87d"
+    },
+    {
+      "$oid": "610e6cc680bd0e000428c87e"
+    },
+    {
+      "$oid": "610e6cf180bd0e000428c87f"
+    },
+    {
+      "$oid": "610e6d3680bd0e000428c880"
+    },
+    {
+      "$oid": "610e6d6080bd0e000428c881"
+    },
+    {
+      "$oid": "610e6d7e80bd0e000428c882"
+    },
+    {
+      "$oid": "610e6dc080bd0e000428c883"
+    },
+    {
+      "$oid": "610e6e1880bd0e000428c884"
+    },
+    {
+      "$oid": "610e6e3180bd0e000428c885"
+    },
+    {
+      "$oid": "610e6e4b80bd0e000428c886"
+    },
+    {
+      "$oid": "610e6e6f80bd0e000428c888"
+    },
+    {
+      "$oid": "610e6ea880bd0e000428c889"
+    },
+    {
+      "$oid": "610e6ecd80bd0e000428c88a"
+    },
+    {
+      "$oid": "610e6edf80bd0e000428c88b"
+    },
+    {
+      "$oid": "610e6efa80bd0e000428c88c"
+    },
+    {
+      "$oid": "610e6f0c80bd0e000428c88d"
+    },
+    {
+      "$oid": "610e6f7b80bd0e000428c88e"
+    },
+    {
+      "$oid": "610e6fe880bd0e000428c88f"
+    },
+    {
+      "$oid": "610e700e80bd0e000428c890"
+    },
+    {
+      "$oid": "610e702580bd0e000428c891"
+    },
+    {
+      "$oid": "610e704980bd0e000428c892"
+    },
+    {
+      "$oid": "610e705c80bd0e000428c893"
+    },
+    {
+      "$oid": "610e708180bd0e000428c894"
+    },
+    {
+      "$oid": "610e709a80bd0e000428c895"
+    },
+    {
+      "$oid": "610e70cd80bd0e000428c896"
+    },
+    {
+      "$oid": "610e70e080bd0e000428c897"
+    },
+    {
+      "$oid": "610e733580bd0e000428c89b"
+    },
+    {
+      "$oid": "610e734980bd0e000428c89c"
+    },
+    {
+      "$oid": "610e736780bd0e000428c89d"
+    },
+    {
+      "$oid": "610e73a380bd0e000428c89e"
+    },
+    {
+      "$oid": "610e73b580bd0e000428c89f"
+    },
+    {
+      "$oid": "610e73ce80bd0e000428c8a0"
+    },
+    {
+      "$oid": "610e73f980bd0e000428c8a1"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "tressarysalon",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "TRESSARY UNISEX",
+  "address": "G-4 Gala Magnus Near Orchid Complex, South Bopal, Ahmedabad - 380058",
+  "city": "south_bopal",
+  "breakDuration": 30,
+  "breakTime": "1330",
+  "openTime": "1000",
+  "closeTime": "2130",
+  "referalCode": "72023056001",
+  "vendorId": "610e67bc80bd0e000428c875",
+  "phone": "+918511255100",
+  "createdAt": {
+    "$date": "2021-08-07T11:08:07.792Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-07T11:52:25.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6110a544551bf9489877d796"
+  },
+  "Services": [
+    {
+      "$oid": "6110ab57551bf9489877d798"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 16,
+  "show": false,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "rank": 0,
+  "name": "Test001",
+  "address": "Test Address",
+  "city": "ranip",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "",
+  "vendorId": "610ff509abc558516ccaaa91",
+  "phone": "+918219226823",
+  "createdAt": {
+    "$date": "2021-08-09T03:47:16.647Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-10T03:34:28.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61125d69765d590004f0c4c0"
+  },
+  "Services": [
+    {
+      "$oid": "61125e1c765d590004f0c4c4"
+    },
+    {
+      "$oid": "61125e30765d590004f0c4c5"
+    },
+    {
+      "$oid": "61125e5a765d590004f0c4c6"
+    },
+    {
+      "$oid": "61125e67765d590004f0c4c7"
+    },
+    {
+      "$oid": "61125eae765d590004f0c4c8"
+    },
+    {
+      "$oid": "61125ed6765d590004f0c4c9"
+    },
+    {
+      "$oid": "61125eec765d590004f0c4ca"
+    },
+    {
+      "$oid": "61125f08765d590004f0c4cb"
+    },
+    {
+      "$oid": "61125f26765d590004f0c4cc"
+    },
+    {
+      "$oid": "61125f37765d590004f0c4cd"
+    },
+    {
+      "$oid": "61125f71765d590004f0c4ce"
+    },
+    {
+      "$oid": "61125fb0765d590004f0c4cf"
+    },
+    {
+      "$oid": "61125fe6765d590004f0c4d0"
+    },
+    {
+      "$oid": "61126002765d590004f0c4d1"
+    },
+    {
+      "$oid": "61126038765d590004f0c4d2"
+    },
+    {
+      "$oid": "6112605d765d590004f0c4d3"
+    },
+    {
+      "$oid": "61126073765d590004f0c4d4"
+    },
+    {
+      "$oid": "61126099765d590004f0c4d5"
+    },
+    {
+      "$oid": "611260b4765d590004f0c4d6"
+    },
+    {
+      "$oid": "611260fd765d590004f0c4d7"
+    },
+    {
+      "$oid": "6112611f765d590004f0c4d8"
+    },
+    {
+      "$oid": "6112614a765d590004f0c4d9"
+    },
+    {
+      "$oid": "611261b9765d590004f0c4da"
+    },
+    {
+      "$oid": "61126201765d590004f0c4db"
+    },
+    {
+      "$oid": "6112624d765d590004f0c4dc"
+    },
+    {
+      "$oid": "61126267765d590004f0c4dd"
+    },
+    {
+      "$oid": "61126277765d590004f0c4de"
+    },
+    {
+      "$oid": "6112628e765d590004f0c4df"
+    },
+    {
+      "$oid": "611262b9765d590004f0c4e0"
+    },
+    {
+      "$oid": "611262d3765d590004f0c4e1"
+    },
+    {
+      "$oid": "611262f6765d590004f0c4e2"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "jawedhabib__southbopal",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Jawed Habib Hair & Beauty",
+  "address": "Shop no 16 sun south winds near marigold circle opp shaligram prime safal parisar road south Bopal Ahmedabad",
+  "city": "south_bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "61125bc0765d590004f0c4bf",
+  "phone": "+917041417141",
+  "createdAt": {
+    "$date": "2021-08-10T11:05:13.634Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-10T11:30:54.277Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61126c5b765d590004f0c4e5"
+  },
+  "Services": [
+    {
+      "$oid": "61126e3b765d590004f0c4e7"
+    },
+    {
+      "$oid": "61126e50765d590004f0c4e8"
+    },
+    {
+      "$oid": "61126e5f765d590004f0c4e9"
+    },
+    {
+      "$oid": "61126e6a765d590004f0c4ea"
+    },
+    {
+      "$oid": "61126e7d765d590004f0c4eb"
+    },
+    {
+      "$oid": "61126ebc765d590004f0c4ec"
+    },
+    {
+      "$oid": "61126ecd765d590004f0c4ed"
+    },
+    {
+      "$oid": "61126ee9765d590004f0c4ee"
+    },
+    {
+      "$oid": "61126ef9765d590004f0c4ef"
+    },
+    {
+      "$oid": "61126f4a765d590004f0c4f0"
+    },
+    {
+      "$oid": "61126f91765d590004f0c4f1"
+    },
+    {
+      "$oid": "61126fc5765d590004f0c4f2"
+    },
+    {
+      "$oid": "61126fe3765d590004f0c4f3"
+    },
+    {
+      "$oid": "61127003765d590004f0c4f4"
+    },
+    {
+      "$oid": "61127034765d590004f0c4f5"
+    },
+    {
+      "$oid": "61127068765d590004f0c4f6"
+    },
+    {
+      "$oid": "61127085765d590004f0c4f7"
+    },
+    {
+      "$oid": "6112709e765d590004f0c4f8"
+    },
+    {
+      "$oid": "611270c0765d590004f0c4f9"
+    },
+    {
+      "$oid": "611270de765d590004f0c4fa"
+    },
+    {
+      "$oid": "611270ed765d590004f0c4fb"
+    },
+    {
+      "$oid": "61127118765d590004f0c4fc"
+    },
+    {
+      "$oid": "61127133765d590004f0c4fd"
+    },
+    {
+      "$oid": "61127161765d590004f0c4fe"
+    },
+    {
+      "$oid": "611271a4765d590004f0c4ff"
+    },
+    {
+      "$oid": "611271c2765d590004f0c500"
+    },
+    {
+      "$oid": "611271eb765d590004f0c501"
+    },
+    {
+      "$oid": "61127200765d590004f0c502"
+    },
+    {
+      "$oid": "6112724d765d590004f0c503"
+    },
+    {
+      "$oid": "61127278765d590004f0c504"
+    },
+    {
+      "$oid": "611272a2765d590004f0c505"
+    },
+    {
+      "$oid": "611272ae765d590004f0c506"
+    },
+    {
+      "$oid": "611272c2765d590004f0c507"
+    },
+    {
+      "$oid": "611272d5765d590004f0c508"
+    },
+    {
+      "$oid": "611272e7765d590004f0c509"
+    },
+    {
+      "$oid": "611272f9765d590004f0c50a"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "signature.slonbopal2020",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "J&K Signature Unisex Salon",
+  "address": "G/25  Marigold, near safar parisar road, south bopal",
+  "city": "south_bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "61126b0b765d590004f0c4e4",
+  "phone": "+919824894989",
+  "createdAt": {
+    "$date": "2021-08-10T12:08:59.879Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-10T12:37:13.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61127f6b765d590004f0c50c"
+  },
+  "Services": [
+    {
+      "$oid": "61127fd7765d590004f0c50d"
+    },
+    {
+      "$oid": "61128032765d590004f0c50e"
+    },
+    {
+      "$oid": "61128070765d590004f0c50f"
+    },
+    {
+      "$oid": "6112807b765d590004f0c510"
+    },
+    {
+      "$oid": "611280a7765d590004f0c511"
+    },
+    {
+      "$oid": "61128139765d590004f0c512"
+    },
+    {
+      "$oid": "61128147765d590004f0c513"
+    },
+    {
+      "$oid": "6112815b765d590004f0c514"
+    },
+    {
+      "$oid": "6112816c765d590004f0c515"
+    },
+    {
+      "$oid": "6112818e765d590004f0c516"
+    },
+    {
+      "$oid": "611281a7765d590004f0c517"
+    },
+    {
+      "$oid": "611281d0765d590004f0c518"
+    },
+    {
+      "$oid": "61128208765d590004f0c519"
+    },
+    {
+      "$oid": "6112822e765d590004f0c51a"
+    },
+    {
+      "$oid": "61128247765d590004f0c51b"
+    },
+    {
+      "$oid": "61128265765d590004f0c51c"
+    },
+    {
+      "$oid": "6112828e765d590004f0c51d"
+    },
+    {
+      "$oid": "611282ab765d590004f0c51e"
+    },
+    {
+      "$oid": "611282c1765d590004f0c51f"
+    },
+    {
+      "$oid": "611282d3765d590004f0c520"
+    },
+    {
+      "$oid": "611282ed765d590004f0c521"
+    },
+    {
+      "$oid": "61128310765d590004f0c522"
+    },
+    {
+      "$oid": "61128327765d590004f0c523"
+    },
+    {
+      "$oid": "6112833a765d590004f0c524"
+    },
+    {
+      "$oid": "61128353765d590004f0c525"
+    },
+    {
+      "$oid": "61128367765d590004f0c526"
+    },
+    {
+      "$oid": "61128380765d590004f0c527"
+    },
+    {
+      "$oid": "61128398765d590004f0c528"
+    },
+    {
+      "$oid": "611283ab765d590004f0c529"
+    },
+    {
+      "$oid": "611283c6765d590004f0c52a"
+    },
+    {
+      "$oid": "611283db765d590004f0c52b"
+    },
+    {
+      "$oid": "611283e7765d590004f0c52c"
+    },
+    {
+      "$oid": "611283f8765d590004f0c52d"
+    },
+    {
+      "$oid": "61128407765d590004f0c52e"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "adronsalons",
+  "instagramStatus": "added",
+  "rank": 0,
+  "name": "Adron unisex salon private limited",
+  "address": "Shop no.5 orchid center opp. Safal parisar 2 South Bopal",
+  "city": "south_bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "61127e19765d590004f0c50b",
+  "phone": "+919725676740",
+  "createdAt": {
+    "$date": "2021-08-10T13:30:19.688Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-01T07:32:18.079Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f2523fea5e75782a9beed"
+  },
+  "Services": [],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 16,
+  "show": false,
+  "instaId": "",
+  "instagramStatus": "pending",
+  "stylist": [
+    {
+      "$oid": "6130f1bf09f2b854a811d5bc"
+    },
+    {
+      "$oid": "6130f1cc09f2b854a811d5bd"
+    },
+    {
+      "$oid": "6130f1ec09f2b854a811d5be"
+    }
+  ],
+  "name": "Shitu Ki Shop",
+  "address": "Delhi",
+  "city": "patan",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "",
+  "vendorId": "612f24fdfea5e75782a9beec",
+  "phone": "+918375069407",
+  "createdAt": {
+    "$date": "2021-09-01T07:00:51.031Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-03T01:26:59.719Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612f94fb22306f0a8a606f92"
+  },
+  "Services": [
+    {
+      "$oid": "612f950b22306f0a8a606f93"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 16,
+  "show": false,
+  "instaId": "Pai",
+  "instagramStatus": "added",
+  "stylist": [
+    {
+      "$oid": "6130ca63bfe06320b859c43d"
+    },
+    {
+      "$oid": "6130caf7d813182c4a8ac96e"
+    },
+    {
+      "$oid": "6130cb04d813182c4a8ac96f"
+    }
+  ],
+  "name": "Test Shop 3",
+  "address": "Delhi",
+  "city": "patan",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2100",
+  "referalCode": "",
+  "vendorId": "612f94de22306f0a8a606f91",
+  "phone": "+918285869694",
+  "createdAt": {
+    "$date": "2021-09-01T14:58:03.356Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-03T01:25:47.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138a29e68374500042f82e5"
+  },
+  "Services": [
+    {
+      "$oid": "6138a30668374500042f82e6"
+    },
+    {
+      "$oid": "6138a31668374500042f82e7"
+    },
+    {
+      "$oid": "6138a32268374500042f82e8"
+    },
+    {
+      "$oid": "6138a32f68374500042f82e9"
+    },
+    {
+      "$oid": "6138a34668374500042f82ea"
+    },
+    {
+      "$oid": "6138a36068374500042f82eb"
+    },
+    {
+      "$oid": "6138a37568374500042f82ec"
+    },
+    {
+      "$oid": "6138a39968374500042f82ed"
+    },
+    {
+      "$oid": "6138a3bc68374500042f82ee"
+    },
+    {
+      "$oid": "6138a3dd68374500042f82ef"
+    },
+    {
+      "$oid": "6138a43868374500042f82f0"
+    },
+    {
+      "$oid": "6138a48068374500042f82f1"
+    },
+    {
+      "$oid": "6138a4ab68374500042f82f2"
+    },
+    {
+      "$oid": "6138a4cd68374500042f82f3"
+    },
+    {
+      "$oid": "6138a4f168374500042f82f4"
+    },
+    {
+      "$oid": "6138a53d68374500042f82f5"
+    },
+    {
+      "$oid": "6138a55b68374500042f82f6"
+    },
+    {
+      "$oid": "6138a59c68374500042f82f7"
+    },
+    {
+      "$oid": "6138a5ac68374500042f82f8"
+    },
+    {
+      "$oid": "6138a5c668374500042f82f9"
+    },
+    {
+      "$oid": "6138a5d668374500042f82fa"
+    },
+    {
+      "$oid": "6138a60168374500042f82fb"
+    },
+    {
+      "$oid": "6138a63168374500042f82fc"
+    },
+    {
+      "$oid": "6138a66868374500042f82fd"
+    },
+    {
+      "$oid": "6138a68268374500042f82fe"
+    },
+    {
+      "$oid": "6138a69768374500042f82ff"
+    },
+    {
+      "$oid": "6138a6b168374500042f8300"
+    },
+    {
+      "$oid": "6138a70768374500042f8301"
+    },
+    {
+      "$oid": "6138a72968374500042f8302"
+    },
+    {
+      "$oid": "6138a77868374500042f8303"
+    },
+    {
+      "$oid": "6138a79668374500042f8304"
+    },
+    {
+      "$oid": "6138a7aa68374500042f8305"
+    },
+    {
+      "$oid": "6138a7bf68374500042f8306"
+    },
+    {
+      "$oid": "6138a7d368374500042f8307"
+    },
+    {
+      "$oid": "6138a7e368374500042f8308"
+    },
+    {
+      "$oid": "6138a80d68374500042f8309"
+    },
+    {
+      "$oid": "6138a81d68374500042f830a"
+    },
+    {
+      "$oid": "6138a82b68374500042f830b"
+    },
+    {
+      "$oid": "6138a85068374500042f830c"
+    },
+    {
+      "$oid": "6138a85e68374500042f830d"
+    },
+    {
+      "$oid": "6138a86968374500042f830e"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "amii.salon",
+  "instagramStatus": "added",
+  "name": "Amii salon",
+  "address": "B /24 Himalaya arcade nr Vastrapur lake road",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "6138a1c368374500042f82e4",
+  "phone": "+919998848284",
+  "createdAt": {
+    "$date": "2021-09-08T11:46:38.840Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-12T11:42:27.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613b37365ad8b00004223e6f"
+  },
+  "Services": [
+    {
+      "$oid": "613b375f5ad8b00004223e70"
+    },
+    {
+      "$oid": "613b37775ad8b00004223e71"
+    },
+    {
+      "$oid": "613b37885ad8b00004223e72"
+    },
+    {
+      "$oid": "613b37915ad8b00004223e73"
+    },
+    {
+      "$oid": "613b37cf5ad8b00004223e74"
+    },
+    {
+      "$oid": "613b37fd5ad8b00004223e75"
+    },
+    {
+      "$oid": "613b38085ad8b00004223e76"
+    },
+    {
+      "$oid": "613b38155ad8b00004223e77"
+    },
+    {
+      "$oid": "613b382a5ad8b00004223e78"
+    },
+    {
+      "$oid": "613b38535ad8b00004223e79"
+    },
+    {
+      "$oid": "613b38825ad8b00004223e7a"
+    },
+    {
+      "$oid": "613b38955ad8b00004223e7b"
+    },
+    {
+      "$oid": "613b38a35ad8b00004223e7c"
+    },
+    {
+      "$oid": "613b38c75ad8b00004223e7d"
+    },
+    {
+      "$oid": "613b390a5ad8b00004223e7e"
+    },
+    {
+      "$oid": "613b393e5ad8b00004223e7f"
+    },
+    {
+      "$oid": "613b39875ad8b00004223e80"
+    },
+    {
+      "$oid": "613b39975ad8b00004223e81"
+    },
+    {
+      "$oid": "613b39bc5ad8b00004223e82"
+    },
+    {
+      "$oid": "613b39db5ad8b00004223e83"
+    },
+    {
+      "$oid": "613b39ed5ad8b00004223e84"
+    },
+    {
+      "$oid": "613b3a285ad8b00004223e85"
+    },
+    {
+      "$oid": "613b3a585ad8b00004223e86"
+    },
+    {
+      "$oid": "613b3a835ad8b00004223e87"
+    },
+    {
+      "$oid": "613b3ab95ad8b00004223e88"
+    },
+    {
+      "$oid": "613b3acf5ad8b00004223e89"
+    },
+    {
+      "$oid": "613b3ae75ad8b00004223e8a"
+    },
+    {
+      "$oid": "613b3b0a5ad8b00004223e8b"
+    },
+    {
+      "$oid": "613b3b225ad8b00004223e8c"
+    },
+    {
+      "$oid": "613b3b2f5ad8b00004223e8d"
+    },
+    {
+      "$oid": "613b3b465ad8b00004223e8e"
+    },
+    {
+      "$oid": "613b3b505ad8b00004223e8f"
+    },
+    {
+      "$oid": "613b3b915ad8b00004223e90"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "stylish_hair_cutting ",
+  "instagramStatus": "added",
+  "name": "SCISSOR RULES THE UNISEX SALON",
+  "address": "106,1st floor ,Mandir Complex ,Opp.new york darshan.Opp.Sterling city BRTS   Ambli-Bopal Road,Bopal ,Ahmedabad ",
+  "city": "bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0930",
+  "closeTime": "2130",
+  "referalCode": "7203056001",
+  "vendorId": "613b36065ad8b00004223e6e",
+  "phone": "+917698856676",
+  "createdAt": {
+    "$date": "2021-09-10T10:45:10.681Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T11:04:47.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613b46065ad8b00004223e96"
+  },
+  "Services": [
+    {
+      "$oid": "613b46225ad8b00004223e97"
+    },
+    {
+      "$oid": "613b46485ad8b00004223e98"
+    },
+    {
+      "$oid": "613b46545ad8b00004223e99"
+    },
+    {
+      "$oid": "613b46615ad8b00004223e9a"
+    },
+    {
+      "$oid": "613b46995ad8b00004223e9b"
+    },
+    {
+      "$oid": "613b46b05ad8b00004223e9c"
+    },
+    {
+      "$oid": "613b46c55ad8b00004223e9d"
+    },
+    {
+      "$oid": "613b46de5ad8b00004223e9e"
+    },
+    {
+      "$oid": "613b46fb5ad8b00004223e9f"
+    },
+    {
+      "$oid": "613b47095ad8b00004223ea0"
+    },
+    {
+      "$oid": "613b47195ad8b00004223ea1"
+    },
+    {
+      "$oid": "613b473d5ad8b00004223ea2"
+    },
+    {
+      "$oid": "613b474b5ad8b00004223ea3"
+    },
+    {
+      "$oid": "613b477c5ad8b00004223ea4"
+    },
+    {
+      "$oid": "613b47aa5ad8b00004223ea5"
+    },
+    {
+      "$oid": "613b47cf5ad8b00004223ea6"
+    },
+    {
+      "$oid": "613b47f15ad8b00004223ea7"
+    },
+    {
+      "$oid": "613b481f5ad8b00004223ea8"
+    },
+    {
+      "$oid": "613b48515ad8b00004223ea9"
+    },
+    {
+      "$oid": "613b48755ad8b00004223eaa"
+    },
+    {
+      "$oid": "613b489f5ad8b00004223eab"
+    },
+    {
+      "$oid": "613b48d15ad8b00004223eac"
+    },
+    {
+      "$oid": "613b48f25ad8b00004223ead"
+    },
+    {
+      "$oid": "613b49065ad8b00004223eae"
+    },
+    {
+      "$oid": "613b49205ad8b00004223eaf"
+    },
+    {
+      "$oid": "613b492e5ad8b00004223eb0"
+    },
+    {
+      "$oid": "613b493a5ad8b00004223eb1"
+    },
+    {
+      "$oid": "613b49475ad8b00004223eb2"
+    },
+    {
+      "$oid": "613b498a5ad8b00004223eb3"
+    },
+    {
+      "$oid": "613b499c5ad8b00004223eb4"
+    },
+    {
+      "$oid": "613b49bf5ad8b00004223eb5"
+    },
+    {
+      "$oid": "613b49e05ad8b00004223eb6"
+    },
+    {
+      "$oid": "613b49f35ad8b00004223eb7"
+    },
+    {
+      "$oid": "613b4a005ad8b00004223eb8"
+    },
+    {
+      "$oid": "613b4a1e5ad8b00004223eb9"
+    },
+    {
+      "$oid": "613b4a2a5ad8b00004223eba"
+    },
+    {
+      "$oid": "613b4a3b5ad8b00004223ebb"
+    },
+    {
+      "$oid": "613b4a475ad8b00004223ebc"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "mustakimmuntiyaj",
+  "instagramStatus": "added",
+  "name": "SCISSOR RULE THE UNISEX SALON",
+  "address": "Ff-6,kabir enclev,opp. Homeopethic college, Bopal-ghuma main road ,Ahmedabad-380058",
+  "city": "bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0930",
+  "closeTime": "2200",
+  "referalCode": "6353150508",
+  "vendorId": "613b43d55ad8b00004223e95",
+  "phone": "+918511462926",
+  "createdAt": {
+    "$date": "2021-09-10T11:48:22.798Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-10T12:10:54.379Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613c8daf8d93c40004206c78"
+  },
+  "Services": [
+    {
+      "$oid": "613c8e208d93c40004206c79"
+    },
+    {
+      "$oid": "613c8e2f8d93c40004206c7a"
+    },
+    {
+      "$oid": "613c8e408d93c40004206c7b"
+    },
+    {
+      "$oid": "613c8e518d93c40004206c7c"
+    },
+    {
+      "$oid": "613c8e5e8d93c40004206c7d"
+    },
+    {
+      "$oid": "613c8e6c8d93c40004206c7e"
+    },
+    {
+      "$oid": "613c8e7b8d93c40004206c7f"
+    },
+    {
+      "$oid": "613c8e8d8d93c40004206c80"
+    },
+    {
+      "$oid": "613c8eae8d93c40004206c81"
+    },
+    {
+      "$oid": "613c8ef68d93c40004206c82"
+    },
+    {
+      "$oid": "613c8f168d93c40004206c83"
+    },
+    {
+      "$oid": "613c8f478d93c40004206c84"
+    },
+    {
+      "$oid": "613c8f758d93c40004206c85"
+    },
+    {
+      "$oid": "613c8f8c8d93c40004206c86"
+    },
+    {
+      "$oid": "613c8f9a8d93c40004206c87"
+    },
+    {
+      "$oid": "613c8fb18d93c40004206c88"
+    },
+    {
+      "$oid": "613c8fca8d93c40004206c89"
+    },
+    {
+      "$oid": "613c8fdd8d93c40004206c8a"
+    },
+    {
+      "$oid": "613c90058d93c40004206c8b"
+    },
+    {
+      "$oid": "613c90198d93c40004206c8c"
+    },
+    {
+      "$oid": "613c90368d93c40004206c8d"
+    },
+    {
+      "$oid": "613c90468d93c40004206c8e"
+    },
+    {
+      "$oid": "613c905a8d93c40004206c8f"
+    },
+    {
+      "$oid": "613c90718d93c40004206c90"
+    },
+    {
+      "$oid": "613c907f8d93c40004206c91"
+    },
+    {
+      "$oid": "613c90938d93c40004206c92"
+    },
+    {
+      "$oid": "613c909e8d93c40004206c93"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "sangita_p_patel",
+  "instagramStatus": "added",
+  "name": "Shree Manushi Beaty care and Spa",
+  "address": "C-6/FF, Shree krishna complex, sarkari tubewell,Bopal, Ahmedabad",
+  "city": "bopal",
+  "breakDuration": 30,
+  "breakTime": "1400",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "referalCode": "7203056001",
+  "vendorId": "613c8bd88d93c40004206c77",
+  "phone": "+919825700556",
+  "createdAt": {
+    "$date": "2021-09-11T11:06:23.496Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T11:20:43.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613c9b5b8d93c40004206c96"
+  },
+  "Services": [
+    {
+      "$oid": "613c9ba08d93c40004206c97"
+    },
+    {
+      "$oid": "613c9bb08d93c40004206c98"
+    },
+    {
+      "$oid": "613c9bbd8d93c40004206c99"
+    },
+    {
+      "$oid": "613c9bd88d93c40004206c9a"
+    },
+    {
+      "$oid": "613c9be98d93c40004206c9b"
+    },
+    {
+      "$oid": "613c9bf68d93c40004206c9c"
+    },
+    {
+      "$oid": "613c9c078d93c40004206c9e"
+    },
+    {
+      "$oid": "613c9c178d93c40004206c9f"
+    },
+    {
+      "$oid": "613c9c538d93c40004206ca0"
+    },
+    {
+      "$oid": "613c9c778d93c40004206ca3"
+    },
+    {
+      "$oid": "613c9c8f8d93c40004206ca4"
+    },
+    {
+      "$oid": "613c9ce48d93c40004206ca9"
+    },
+    {
+      "$oid": "613c9d128d93c40004206cac"
+    },
+    {
+      "$oid": "613c9e2e8d93c40004206cb9"
+    },
+    {
+      "$oid": "613c9e4c8d93c40004206cbb"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "the_raj_appearance_hire_salon",
+  "instagramStatus": "pending",
+  "name": "The RAJ Appearance Hair Salon",
+  "address": "Ff-6, Arohi arcade, New. Government tube well bopal, Ahmedabad",
+  "city": "bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "referalCode": "7203056001",
+  "vendorId": "613c9a138d93c40004206c94",
+  "phone": "+919898614049",
+  "createdAt": {
+    "$date": "2021-09-11T12:04:43.175Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T12:23:12.244Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613c9c038d93c40004206c9d"
+  },
+  "Services": [
+    {
+      "$oid": "613c9c5c8d93c40004206ca1"
+    },
+    {
+      "$oid": "613c9c6f8d93c40004206ca2"
+    },
+    {
+      "$oid": "613c9c988d93c40004206ca5"
+    },
+    {
+      "$oid": "613c9ca78d93c40004206ca6"
+    },
+    {
+      "$oid": "613c9cc08d93c40004206ca7"
+    },
+    {
+      "$oid": "613c9cd28d93c40004206ca8"
+    },
+    {
+      "$oid": "613c9cfc8d93c40004206caa"
+    },
+    {
+      "$oid": "613c9d0f8d93c40004206cab"
+    },
+    {
+      "$oid": "613c9d378d93c40004206cad"
+    },
+    {
+      "$oid": "613c9d608d93c40004206cae"
+    },
+    {
+      "$oid": "613c9d748d93c40004206caf"
+    },
+    {
+      "$oid": "613c9d7f8d93c40004206cb0"
+    },
+    {
+      "$oid": "613c9d968d93c40004206cb1"
+    },
+    {
+      "$oid": "613c9db28d93c40004206cb2"
+    },
+    {
+      "$oid": "613c9dc58d93c40004206cb3"
+    },
+    {
+      "$oid": "613c9de68d93c40004206cb5"
+    },
+    {
+      "$oid": "613c9dfd8d93c40004206cb6"
+    },
+    {
+      "$oid": "613c9e178d93c40004206cb7"
+    },
+    {
+      "$oid": "613c9e288d93c40004206cb8"
+    },
+    {
+      "$oid": "613c9e378d93c40004206cba"
+    },
+    {
+      "$oid": "613c9e628d93c40004206cbc"
+    },
+    {
+      "$oid": "613c9e6e8d93c40004206cbd"
+    },
+    {
+      "$oid": "613c9e7f8d93c40004206cbe"
+    },
+    {
+      "$oid": "613c9e898d93c40004206cbf"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "krishnabeautycarehairsalon",
+  "instagramStatus": "added",
+  "name": "Krishna Beauty care and Hair salon",
+  "address": "FF-09, Aarohi Arcade near government tube well Bopal ahemdabad,380058",
+  "city": "bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "613c9b2a8d93c40004206c95",
+  "phone": "+918140420452",
+  "createdAt": {
+    "$date": "2021-09-11T12:07:31.706Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T12:22:07.197Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "613f4a8377e8f800040d9b35"
+  },
+  "Services": [
+    {
+      "$oid": "613f4cb177e8f800040d9b37"
+    },
+    {
+      "$oid": "613f4cce77e8f800040d9b38"
+    },
+    {
+      "$oid": "613f4d1877e8f800040d9b3a"
+    },
+    {
+      "$oid": "613f4d2d77e8f800040d9b3b"
+    },
+    {
+      "$oid": "613f4d4277e8f800040d9b3c"
+    },
+    {
+      "$oid": "613f4d6177e8f800040d9b3d"
+    },
+    {
+      "$oid": "613f4d7977e8f800040d9b3e"
+    },
+    {
+      "$oid": "613f4db877e8f800040d9b3f"
+    },
+    {
+      "$oid": "613f4dd077e8f800040d9b40"
+    },
+    {
+      "$oid": "613f4e1277e8f800040d9b41"
+    },
+    {
+      "$oid": "613f4e8177e8f800040d9b42"
+    },
+    {
+      "$oid": "613f4e9177e8f800040d9b43"
+    },
+    {
+      "$oid": "613f4e9c77e8f800040d9b44"
+    },
+    {
+      "$oid": "613f4ecc77e8f800040d9b45"
+    },
+    {
+      "$oid": "613f4eed77e8f800040d9b46"
+    },
+    {
+      "$oid": "613f4f1277e8f800040d9b47"
+    },
+    {
+      "$oid": "613f4f5e77e8f800040d9b48"
+    },
+    {
+      "$oid": "613f4fd877e8f800040d9b49"
+    },
+    {
+      "$oid": "613f4fea77e8f800040d9b4a"
+    },
+    {
+      "$oid": "613f4ffc77e8f800040d9b4b"
+    },
+    {
+      "$oid": "613f501a77e8f800040d9b4c"
+    },
+    {
+      "$oid": "613f505677e8f800040d9b4d"
+    },
+    {
+      "$oid": "613f506177e8f800040d9b4e"
+    },
+    {
+      "$oid": "613f506b77e8f800040d9b4f"
+    },
+    {
+      "$oid": "613f507977e8f800040d9b50"
+    },
+    {
+      "$oid": "613f515077e8f800040d9b51"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 12,
+  "features": [],
+  "instaUrl": "",
+  "gender": "female",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "karishma_beauty_salon",
+  "instagramStatus": "added",
+  "name": "Karishma The Beauty Salon",
+  "address": "202 ardhya complex ,oppo celebration city centre,gala gymkhana road south bopal",
+  "city": "south_bopal",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "1900",
+  "referalCode": "7203056001",
+  "vendorId": "613f497377e8f800040d9b34",
+  "phone": "+919998219276",
+  "createdAt": {
+    "$date": "2021-09-13T12:56:35.734Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-26T14:31:20.473Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614073d2273e8e0004dfd842"
+  },
+  "Services": [
+    {
+      "$oid": "614073fa273e8e0004dfd843"
+    },
+    {
+      "$oid": "61407402273e8e0004dfd844"
+    },
+    {
+      "$oid": "6140740c273e8e0004dfd845"
+    },
+    {
+      "$oid": "61407464273e8e0004dfd846"
+    },
+    {
+      "$oid": "61407476273e8e0004dfd847"
+    },
+    {
+      "$oid": "61407487273e8e0004dfd848"
+    },
+    {
+      "$oid": "61407496273e8e0004dfd849"
+    },
+    {
+      "$oid": "614074a5273e8e0004dfd84a"
+    },
+    {
+      "$oid": "614074b4273e8e0004dfd84b"
+    },
+    {
+      "$oid": "61407502273e8e0004dfd84c"
+    },
+    {
+      "$oid": "6140755a273e8e0004dfd84d"
+    },
+    {
+      "$oid": "61407568273e8e0004dfd84e"
+    },
+    {
+      "$oid": "61407585273e8e0004dfd84f"
+    },
+    {
+      "$oid": "614075f6273e8e0004dfd850"
+    },
+    {
+      "$oid": "6140760d273e8e0004dfd851"
+    },
+    {
+      "$oid": "61407628273e8e0004dfd852"
+    },
+    {
+      "$oid": "61407637273e8e0004dfd853"
+    },
+    {
+      "$oid": "61407644273e8e0004dfd854"
+    },
+    {
+      "$oid": "614076c1273e8e0004dfd855"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "salon.tamanna",
+  "instagramStatus": "added",
+  "name": "TAMNNA SALON",
+  "address": "G-5, Shree Ratna Apartment, Nr. Surdhara Circle, sun-N-Step club road , thaltej, Ahmedabad-380054",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0830",
+  "closeTime": "2200",
+  "referalCode": "6353150508",
+  "vendorId": "61407265273e8e0004dfd841",
+  "phone": "+918511497577",
+  "createdAt": {
+    "$date": "2021-09-14T10:05:06.384Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-14T10:30:19.014Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "614081b7273e8e0004dfd859"
+  },
+  "Services": [
+    {
+      "$oid": "61408326273e8e0004dfd85b"
+    },
+    {
+      "$oid": "61408343273e8e0004dfd85c"
+    },
+    {
+      "$oid": "61408352273e8e0004dfd85d"
+    },
+    {
+      "$oid": "614083d9273e8e0004dfd85e"
+    },
+    {
+      "$oid": "61408452273e8e0004dfd860"
+    },
+    {
+      "$oid": "6140847d273e8e0004dfd861"
+    },
+    {
+      "$oid": "614084ab273e8e0004dfd862"
+    },
+    {
+      "$oid": "614084e3273e8e0004dfd863"
+    },
+    {
+      "$oid": "61408507273e8e0004dfd864"
+    },
+    {
+      "$oid": "61408539273e8e0004dfd865"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "ingridthesalon",
+  "instagramStatus": "added",
+  "name": "INGRID THE SALON",
+  "address": "First floor shop no-9 Shantiniketen Apartment Opp.H.B.Kapadiya School, Gurukul Rd, near Vishram Nagar, Ahmedabad, Gujarat 380052",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "614080c4273e8e0004dfd858",
+  "phone": "+919327537320",
+  "createdAt": {
+    "$date": "2021-09-14T11:04:23.630Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-14T11:19:21.177Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6140e1376c1b5800048831d0"
+  },
+  "Services": [
+    {
+      "$oid": "6140e1d16c1b5800048831d2"
+    },
+    {
+      "$oid": "6140e1ee6c1b5800048831d3"
+    },
+    {
+      "$oid": "6140e2306c1b5800048831d6"
+    },
+    {
+      "$oid": "6140e28d9db0c000042a61fa"
+    },
+    {
+      "$oid": "6140e2d19db0c000042a61fc"
+    },
+    {
+      "$oid": "6140e2dc9db0c000042a61fd"
+    },
+    {
+      "$oid": "6140e2e69db0c000042a61fe"
+    },
+    {
+      "$oid": "6140e2f99db0c000042a61ff"
+    },
+    {
+      "$oid": "6140e30f9db0c000042a6200"
+    },
+    {
+      "$oid": "6140e34a9db0c000042a6201"
+    },
+    {
+      "$oid": "6140e3619db0c000042a6202"
+    },
+    {
+      "$oid": "6140e3709db0c000042a6203"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Vishparekhofficial",
+  "instagramStatus": "pending",
+  "name": "Marvel hair studio",
+  "address": "Ambalal complex, opp Someshwar park 3, gulab tower road, thaltej",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1330",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "Marvel@1920",
+  "vendorId": "613f6d5a99143b0004e6478e",
+  "phone": "+919099239897",
+  "createdAt": {
+    "$date": "2021-09-14T17:51:51.281Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-14T18:01:41.124Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6141cdf473242e00048ef3b6"
+  },
+  "Services": [
+    {
+      "$oid": "6141cf1273242e00048ef3b7"
+    },
+    {
+      "$oid": "6141cf8473242e00048ef3b8"
+    },
+    {
+      "$oid": "6141cf9773242e00048ef3b9"
+    },
+    {
+      "$oid": "6141cfa073242e00048ef3ba"
+    },
+    {
+      "$oid": "6141d01973242e00048ef3bb"
+    },
+    {
+      "$oid": "6141d04873242e00048ef3bd"
+    },
+    {
+      "$oid": "6141d05c73242e00048ef3be"
+    },
+    {
+      "$oid": "6141d08073242e00048ef3bf"
+    },
+    {
+      "$oid": "6141d0ec73242e00048ef3c0"
+    },
+    {
+      "$oid": "6141d12e73242e00048ef3c1"
+    },
+    {
+      "$oid": "6141d18973242e00048ef3c2"
+    },
+    {
+      "$oid": "6141d1bf73242e00048ef3c3"
+    },
+    {
+      "$oid": "6141d1d373242e00048ef3c4"
+    },
+    {
+      "$oid": "6141d23173242e00048ef3c5"
+    },
+    {
+      "$oid": "6141d27273242e00048ef3c6"
+    },
+    {
+      "$oid": "6141d28e73242e00048ef3c7"
+    },
+    {
+      "$oid": "6141d29c73242e00048ef3c8"
+    },
+    {
+      "$oid": "6141d2cf73242e00048ef3c9"
+    },
+    {
+      "$oid": "6141d33073242e00048ef3ca"
+    },
+    {
+      "$oid": "6141d34a73242e00048ef3cb"
+    },
+    {
+      "$oid": "6141d37073242e00048ef3cc"
+    },
+    {
+      "$oid": "6141d40873242e00048ef3ce"
+    },
+    {
+      "$oid": "6141d42073242e00048ef3cf"
+    },
+    {
+      "$oid": "6141d44a73242e00048ef3d0"
+    },
+    {
+      "$oid": "6141d45d73242e00048ef3d1"
+    },
+    {
+      "$oid": "6141d47673242e00048ef3d2"
+    },
+    {
+      "$oid": "6141d48173242e00048ef3d3"
+    },
+    {
+      "$oid": "6141d48e73242e00048ef3d4"
+    },
+    {
+      "$oid": "6141d4a473242e00048ef3d5"
+    }
+  ],
+  "status": "close",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 11,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "superstar_hair_salon ",
+  "instagramStatus": "added",
+  "name": "SUPERSTAR HAIR SALON",
+  "address": "22, Vraj vihar 5, opp  Gloria Restaurant, Behind Rahul Tower, Satellite,Ahmedabad-380015",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0900",
+  "closeTime": "2100",
+  "referalCode": "6353150508",
+  "vendorId": "6141cbcd73242e00048ef3b5",
+  "phone": "+918485960655",
+  "createdAt": {
+    "$date": "2021-09-15T10:41:56.262Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-15T04:17:43.167Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61447708a0dacf00040c49d0"
+  },
+  "Services": [
+    {
+      "$oid": "6144784ba0dacf00040c49d1"
+    },
+    {
+      "$oid": "6144786da0dacf00040c49d2"
+    },
+    {
+      "$oid": "6144787da0dacf00040c49d3"
+    },
+    {
+      "$oid": "61447889a0dacf00040c49d4"
+    },
+    {
+      "$oid": "614478efa0dacf00040c49d5"
+    },
+    {
+      "$oid": "61447928a0dacf00040c49d6"
+    },
+    {
+      "$oid": "61447962a0dacf00040c49d7"
+    },
+    {
+      "$oid": "61447999a0dacf00040c49d8"
+    },
+    {
+      "$oid": "614479c0a0dacf00040c49d9"
+    },
+    {
+      "$oid": "61447a2ca0dacf00040c49db"
+    },
+    {
+      "$oid": "61447a6ea0dacf00040c49dc"
+    },
+    {
+      "$oid": "61447aa1a0dacf00040c49dd"
+    },
+    {
+      "$oid": "61447ad6a0dacf00040c49de"
+    },
+    {
+      "$oid": "61447b20a0dacf00040c49df"
+    },
+    {
+      "$oid": "61447b6da0dacf00040c49e0"
+    },
+    {
+      "$oid": "61447bb3a0dacf00040c49e1"
+    },
+    {
+      "$oid": "61447c64a0dacf00040c49e2"
+    },
+    {
+      "$oid": "61447ca3a0dacf00040c49e3"
+    },
+    {
+      "$oid": "61447cefa0dacf00040c49e4"
+    },
+    {
+      "$oid": "61447d42a0dacf00040c49e5"
+    },
+    {
+      "$oid": "61447da3a0dacf00040c49e6"
+    },
+    {
+      "$oid": "61447dc8a0dacf00040c49e7"
+    },
+    {
+      "$oid": "61447deaa0dacf00040c49e8"
+    },
+    {
+      "$oid": "61447dfca0dacf00040c49e9"
+    },
+    {
+      "$oid": "61447e2aa0dacf00040c49ea"
+    },
+    {
+      "$oid": "61447e4aa0dacf00040c49eb"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "b_brown_unisex_salon_n_academy",
+  "instagramStatus": "added",
+  "name": "B-brown unisex salon N academy ",
+  "address": "A-171 someshwar complex opp city gold cinema 132fr ring road shyamal. Satellite, Ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1500",
+  "openTime": "1000",
+  "closeTime": "2100",
+  "referalCode": "7203056001",
+  "vendorId": "614475c4a0dacf00040c49cf",
+  "phone": "+919510221118",
+  "createdAt": {
+    "$date": "2021-09-17T11:07:52.282Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-17T11:40:56.682Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ebc6c95709200043116f6"
+  },
+  "Services": [
+    {
+      "$oid": "615ebc9b95709200043116f7"
+    },
+    {
+      "$oid": "615ebcb395709200043116f8"
+    },
+    {
+      "$oid": "615ebcbd95709200043116f9"
+    },
+    {
+      "$oid": "615ebcc495709200043116fa"
+    },
+    {
+      "$oid": "615ebcf395709200043116fb"
+    },
+    {
+      "$oid": "615ebd0995709200043116fc"
+    },
+    {
+      "$oid": "615ebd1795709200043116fd"
+    },
+    {
+      "$oid": "615ebd2795709200043116fe"
+    },
+    {
+      "$oid": "615ebd3895709200043116ff"
+    },
+    {
+      "$oid": "615ebd699570920004311700"
+    },
+    {
+      "$oid": "615ebd7a9570920004311701"
+    },
+    {
+      "$oid": "615ebda49570920004311702"
+    },
+    {
+      "$oid": "615ebdcc9570920004311703"
+    },
+    {
+      "$oid": "615ebde79570920004311704"
+    },
+    {
+      "$oid": "615ebe059570920004311705"
+    },
+    {
+      "$oid": "615ebe189570920004311706"
+    },
+    {
+      "$oid": "615ebe379570920004311707"
+    },
+    {
+      "$oid": "615ebe579570920004311708"
+    },
+    {
+      "$oid": "615ebe719570920004311709"
+    },
+    {
+      "$oid": "615ebe92957092000431170a"
+    },
+    {
+      "$oid": "615ebead957092000431170b"
+    },
+    {
+      "$oid": "615ebec0957092000431170c"
+    },
+    {
+      "$oid": "615ebed4957092000431170d"
+    },
+    {
+      "$oid": "615ebee5957092000431170e"
+    },
+    {
+      "$oid": "615ebef4957092000431170f"
+    },
+    {
+      "$oid": "615ebf549570920004311710"
+    },
+    {
+      "$oid": "615ebf7d9570920004311711"
+    },
+    {
+      "$oid": "615ebf939570920004311712"
+    },
+    {
+      "$oid": "615ebfd59570920004311713"
+    },
+    {
+      "$oid": "615ebfed9570920004311714"
+    },
+    {
+      "$oid": "615ebffe9570920004311715"
+    },
+    {
+      "$oid": "615ec00c9570920004311716"
+    },
+    {
+      "$oid": "615ec02f9570920004311717"
+    },
+    {
+      "$oid": "615ec03c9570920004311718"
+    },
+    {
+      "$oid": "615ec04f9570920004311719"
+    },
+    {
+      "$oid": "615ec05a957092000431171a"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "Zivasalonahmedabad",
+  "instagramStatus": "added",
+  "name": "Ziva salon",
+  "address": "F-10 krishna complex opp Mocha cafe Devashish business park bodekdev",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0930",
+  "closeTime": "2130",
+  "referalCode": "6353150508",
+  "vendorId": "615ebbd595709200043116f5",
+  "phone": "+919587555707",
+  "createdAt": {
+    "$date": "2021-10-07T09:22:52.294Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-07T09:41:34.127Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ec89a957092000431171c"
+  },
+  "Services": [
+    {
+      "$oid": "615ec8de957092000431171d"
+    },
+    {
+      "$oid": "615ec914957092000431171e"
+    },
+    {
+      "$oid": "615ec921957092000431171f"
+    },
+    {
+      "$oid": "615ec93b9570920004311720"
+    },
+    {
+      "$oid": "615ec9869570920004311722"
+    },
+    {
+      "$oid": "615eca3a9570920004311723"
+    },
+    {
+      "$oid": "615eca5a9570920004311724"
+    },
+    {
+      "$oid": "615eca9a9570920004311725"
+    },
+    {
+      "$oid": "615ecae39570920004311726"
+    },
+    {
+      "$oid": "615ecaf39570920004311727"
+    },
+    {
+      "$oid": "615ecb239570920004311728"
+    },
+    {
+      "$oid": "615ecb5c9570920004311729"
+    },
+    {
+      "$oid": "615ecb7b957092000431172a"
+    },
+    {
+      "$oid": "615ecb8b957092000431172b"
+    },
+    {
+      "$oid": "615ecbf1957092000431172c"
+    },
+    {
+      "$oid": "615ecc37957092000431172d"
+    },
+    {
+      "$oid": "615ecc67957092000431172e"
+    },
+    {
+      "$oid": "615ecc8e957092000431172f"
+    },
+    {
+      "$oid": "615ecc9d9570920004311730"
+    },
+    {
+      "$oid": "615eccbd9570920004311731"
+    },
+    {
+      "$oid": "615eccdb9570920004311732"
+    },
+    {
+      "$oid": "615ecd1b9570920004311733"
+    },
+    {
+      "$oid": "615ecd619570920004311734"
+    },
+    {
+      "$oid": "615ecd889570920004311735"
+    },
+    {
+      "$oid": "615ecdb09570920004311736"
+    },
+    {
+      "$oid": "615ecdc99570920004311737"
+    },
+    {
+      "$oid": "615ecde39570920004311738"
+    },
+    {
+      "$oid": "615ece4e9570920004311739"
+    },
+    {
+      "$oid": "615ece5f957092000431173a"
+    },
+    {
+      "$oid": "615ece71957092000431173b"
+    },
+    {
+      "$oid": "615ece7c957092000431173c"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": false,
+  "instaId": "louissalonahmedabad",
+  "instagramStatus": "added",
+  "name": "LOUIS UNISEX SALON",
+  "address": "Shop No-37,ground floor, iscon Emporio Satellite near star bajar ahmedabad",
+  "city": "satellite ",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "615ec711957092000431171b",
+  "phone": "+919638327249",
+  "createdAt": {
+    "$date": "2021-10-07T10:14:50.686Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-08T08:04:33.683Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d5c1426e6940004b96e98"
+  },
+  "Services": [
+    {
+      "$oid": "616d5c8526e6940004b96e9a"
+    },
+    {
+      "$oid": "616d5c9326e6940004b96e9b"
+    },
+    {
+      "$oid": "616d5cef26e6940004b96e9c"
+    },
+    {
+      "$oid": "616d5d0026e6940004b96e9d"
+    },
+    {
+      "$oid": "616d5d1226e6940004b96e9e"
+    },
+    {
+      "$oid": "616d5d2926e6940004b96e9f"
+    },
+    {
+      "$oid": "616d5d4326e6940004b96ea0"
+    },
+    {
+      "$oid": "616d5d5426e6940004b96ea1"
+    },
+    {
+      "$oid": "616d5d9526e6940004b96ea2"
+    },
+    {
+      "$oid": "616d5db026e6940004b96ea3"
+    },
+    {
+      "$oid": "616d5dc826e6940004b96ea4"
+    },
+    {
+      "$oid": "616d5df226e6940004b96ea5"
+    },
+    {
+      "$oid": "616d5e0926e6940004b96ea6"
+    },
+    {
+      "$oid": "616d5e2626e6940004b96ea7"
+    },
+    {
+      "$oid": "616d6f025c98a20004fc7ca3"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "male",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "krishna_hair_saloon_8511",
+  "instagramStatus": "added",
+  "name": "KRISHNA HAIR SALOON",
+  "address": " D no 4 Tavis avnu aaryan eminit chanakyapuri, Ahmedabad",
+  "city": "ghatlodiya",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "0800",
+  "closeTime": "2200",
+  "referalCode": "6353150508",
+  "vendorId": "616d5af426e6940004b96e97",
+  "phone": "+919157891076",
+  "createdAt": {
+    "$date": "2021-10-18T11:35:48.776Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T13:34:53.075Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616eb67f03b3f70004be4cf9"
+  },
+  "Services": [
+    {
+      "$oid": "616eb6eb03b3f70004be4cfa"
+    },
+    {
+      "$oid": "616eb6f603b3f70004be4cfb"
+    },
+    {
+      "$oid": "616eb70203b3f70004be4cfc"
+    },
+    {
+      "$oid": "616eb70a03b3f70004be4cfd"
+    },
+    {
+      "$oid": "616eb74003b3f70004be4cfe"
+    },
+    {
+      "$oid": "616eb74d03b3f70004be4cff"
+    },
+    {
+      "$oid": "616eb75903b3f70004be4d00"
+    },
+    {
+      "$oid": "616eb76d03b3f70004be4d01"
+    },
+    {
+      "$oid": "616eb77f03b3f70004be4d02"
+    },
+    {
+      "$oid": "616eb7a503b3f70004be4d03"
+    },
+    {
+      "$oid": "616eb7d503b3f70004be4d04"
+    },
+    {
+      "$oid": "616eb7e703b3f70004be4d05"
+    },
+    {
+      "$oid": "616eb7f303b3f70004be4d06"
+    },
+    {
+      "$oid": "616eb81803b3f70004be4d07"
+    },
+    {
+      "$oid": "616eb83403b3f70004be4d08"
+    },
+    {
+      "$oid": "616eb85603b3f70004be4d09"
+    },
+    {
+      "$oid": "616eb86e03b3f70004be4d0a"
+    },
+    {
+      "$oid": "616eb87c03b3f70004be4d0b"
+    },
+    {
+      "$oid": "616eb89003b3f70004be4d0c"
+    },
+    {
+      "$oid": "616eb8df03b3f70004be4d0d"
+    },
+    {
+      "$oid": "616eb90703b3f70004be4d0e"
+    },
+    {
+      "$oid": "616eb91603b3f70004be4d0f"
+    },
+    {
+      "$oid": "616eb94103b3f70004be4d12"
+    },
+    {
+      "$oid": "616eb97403b3f70004be4d14"
+    },
+    {
+      "$oid": "616eb9bf03b3f70004be4d16"
+    },
+    {
+      "$oid": "616eb9d303b3f70004be4d17"
+    },
+    {
+      "$oid": "616eb9f703b3f70004be4d18"
+    }
+  ],
+  "status": "open",
+  "sumRating": 5,
+  "noOfReview": 1,
+  "referals": 10,
+  "features": [],
+  "instaUrl": "",
+  "gender": "unisex",
+  "discount": 13,
+  "commision": 14,
+  "show": true,
+  "instaId": "UNIQUESALON918",
+  "instagramStatus": "added",
+  "name": "Shop no F2 westend park",
+  "address": "Nr goviddham gurudwara thaltej,Ahmedabad",
+  "city": "thaltej",
+  "breakDuration": 30,
+  "breakTime": "1300",
+  "openTime": "1000",
+  "closeTime": "2000",
+  "referalCode": "6353150508",
+  "vendorId": "616eb53d03b3f70004be4cf8",
+  "phone": "+918140443858",
+  "createdAt": {
+    "$date": "2021-10-19T12:13:51.273Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-19T12:28:39.253Z"
+  },
+  "__v": 0
+}]
