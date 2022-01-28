@@ -17,21 +17,25 @@ def dmer():
     chrome_options = Options()
     chrome_options.add_argument(
         '--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1')
+
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
     mobile_emulation = { "deviceName": "iPhone 5/SE" }
     chrome_options.add_experimental_option("mobileEmulation", mobile_emulation)
-    browser = webdriver.Chrome("chromedriver.exe", options=chrome_options)
+    chrome_options.binary_location = r"/bin/google-chrome"
 
+    browser = webdriver.Chrome("./chromedriver_linux", options=chrome_options)
 
     browser.get('https://www.instagram.com/accounts/login/')
-
 
     time.sleep(2)
 
     usrname_bar = browser.find_element_by_name('username')
     passwrd_bar = browser.find_element_by_name('password')
 
-    username = ''  # Enter your username here
-    password = ''  # Enter your password here
+    username = 'sadbrotech'  # Enter your username here
+    password = '123456qwerty'  # Enter your password here
 
     usrname_bar.send_keys(username)
     passwrd_bar.send_keys(password + Keys.ENTER)
