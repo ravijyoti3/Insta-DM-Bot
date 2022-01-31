@@ -128,10 +128,10 @@ def dmer():
             snd_btnn.click()
 
             time.sleep(4)
-        
+
         except IndexError:
             print('failed')
-    
+
     count = 0
     try:
         for usrnamee in usrnames:
@@ -148,7 +148,7 @@ def dmer():
     ''')
 
     x += 1
-    
+
     # count = 0
     # try:
     #     for usrnamee in usrnames:
