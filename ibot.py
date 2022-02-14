@@ -5,7 +5,59 @@ from selenium.webdriver.chrome.options import Options
 import time
 from selenium.webdriver.common.action_chains import ActionChains
 import re
+import sys
 import instaloader as ig
+
+class CSVH:
+
+## TODO: convert IO to binary
+
+    def __init__(self, fp, mode = 'r'):
+
+        self.handle = open(fp, mode)
+        self.mode = mode
+        self.file_path = fp
+
+        self.raw_data = []
+
+    def load(self):
+
+        if self.handle.closed:
+
+            print("<--! File is closed !-->")
+            sys.exit(1)
+
+        self.raw_data = self.handle.readlines()
+        self.fields = self.raw_data[0].strip("\n").split(",")
+        self.data = []
+
+        count = 0
+
+        for raw in self.raw_data[1:]:
+
+            tmp_dict = {}
+            values = raw.strip("\n").split(",")
+
+            for key, val in zip(self.fields, values):
+
+                tmp_dict[key] = val
+
+            self.data[count] = count
+            count += 1
+
+
+        print("<--! {} Items Loaded !-->".format(count))
+
+    def add(self, val):
+
+        if self.handle.closed or 'a' not in self.mode:
+
+            print("<--! File is closed or/and Wrong Mode !-->")
+            sys.exit(1)
+
+        raw_val = ",".join(val) +"\n"
+
+        self.handle.write(raw_val)
 
 L = ig.Instaloader()
 
@@ -95,9 +147,9 @@ def send_msg(usrname):
     except IndexError:
         print('failed')
 
-#print(follow_list)  --> To get the list
+print(follow_list)  #--> To get the list
 
-print("No of followers: {}".format(len(follow_list)))
+print("\nNo of followers: {}".format(len(follow_list)))
 
 for un in follow_list:
 
